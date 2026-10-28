@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "If you use this reproduction, cite the original 3DGS and Mip-NeRF 360 papers."
+title: "Original 3D Gaussian Splatting on Mip-NeRF 360 Bonsai"
+type: software
+repository-code: "https://github.com/zzzhang1127/3dgs-mipnerf360-bonsai"

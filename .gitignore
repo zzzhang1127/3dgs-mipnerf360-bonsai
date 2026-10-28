@@ -1,0 +1,10 @@
+data/
+output/
+third_party/
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+*.part
+.release-staging/
+renders/

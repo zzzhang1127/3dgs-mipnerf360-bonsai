@@ -1,0 +1,3551 @@
+{
+  "dataset": "Mip-NeRF360",
+  "scene": "bonsai",
+  "original_source": "https://jonbarron.info/mipnerf360/",
+  "mirror_repo": "YuanhaoXD/Mip-NeRF360",
+  "revision": "df31214ab1a3d72e0e4bfa1bfb3c03132b5cbe22",
+  "count": 295,
+  "bytes": 372967249,
+  "files": [
+    {
+      "type": "file",
+      "oid": "8b970668b1708a94dc132e39a2a021a5259756d2",
+      "size": 985980,
+      "lfs": {
+        "oid": "78cc33c4002108cc825ccc63d513dbcce5d9cc34b3c141d20a063eb1e59d238c",
+        "size": 985980,
+        "pointerSize": 131
+      },
+      "xetHash": "12020a0d0146c17291442f5b8f29e1901921e562307d3648af36e3ede64f2ffc",
+      "path": "bonsai/images_2/DSCF5565.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c2681672a93c0b186e72065aed97ef60eefc7ca0",
+      "size": 961721,
+      "lfs": {
+        "oid": "2b75999bf7aa616d87a0ff81b623c1c141dad922c0e8d3c13f3e669d1f01d8f3",
+        "size": 961721,
+        "pointerSize": 131
+      },
+      "xetHash": "1ec47f18a2e12f2165b02ad75f3cb74f3b1938de3267d470b823d3c075bc84ee",
+      "path": "bonsai/images_2/DSCF5566.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "96756cda0194119f9434f8baca14557c8e816d50",
+      "size": 976581,
+      "lfs": {
+        "oid": "9b6b111e110d70cbbaabb1fafffc64702d3f5dd11118d14dbe2f8dfe0e4982e5",
+        "size": 976581,
+        "pointerSize": 131
+      },
+      "xetHash": "4b6331619992b27b551fa243cab3b75e0a5dfa0c13286e76bcbbaedf0b2a1f5b",
+      "path": "bonsai/images_2/DSCF5567.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b8bd46a78d6e461513fb2a47373695efeee8a477",
+      "size": 958771,
+      "lfs": {
+        "oid": "d312dc1da67a86e6aba6ab4c2982e36caa9e3b5e3c6566ea2145ac55ce82dd29",
+        "size": 958771,
+        "pointerSize": 131
+      },
+      "xetHash": "6c4f849636c295e066cf9bfbad5c324b28f6152aa22baeb5c956b235fb19d4d4",
+      "path": "bonsai/images_2/DSCF5568.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b044a828522e85e7535d3c8930a432425da4d56a",
+      "size": 975051,
+      "lfs": {
+        "oid": "0cb865f2977a67cd9810fe5c3f53115766c682cec537ed7276a63bf864a62efd",
+        "size": 975051,
+        "pointerSize": 131
+      },
+      "xetHash": "2d8fcf6291d74cfee25de915c431e4b710ca6455dadf8a7bb1d50853757e78d7",
+      "path": "bonsai/images_2/DSCF5569.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1934d079193f84875c79ef24e228818a9f9e8d82",
+      "size": 986124,
+      "lfs": {
+        "oid": "1befda23555d4bd4a981a2e688e5b7cb8a76bbc19dcf6d2b6a8f471b5554d3c5",
+        "size": 986124,
+        "pointerSize": 131
+      },
+      "xetHash": "0fec93341a5825f1c8f81d707d64482f2fa1590dda3f77207b5a5055100cf121",
+      "path": "bonsai/images_2/DSCF5570.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "fde856337348d3fa6118aea677b6ea6df8ccb793",
+      "size": 971080,
+      "lfs": {
+        "oid": "94714bd8fb3919a7f24c1c6a9c1529be843b1bed15a9e2c16c677aa4171590ae",
+        "size": 971080,
+        "pointerSize": 131
+      },
+      "xetHash": "06445df4ed5ddf7ba4054aff0fddea496a1c896b6b3d235f32bc1a973caecad9",
+      "path": "bonsai/images_2/DSCF5571.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6d134a1e676bca6153bf1d0708a590e9a8524a7d",
+      "size": 1006777,
+      "lfs": {
+        "oid": "4a3f5a58f8f0e1ccab7c00fedc675fdbe05801788ca82023a246ab8538cd29ef",
+        "size": 1006777,
+        "pointerSize": 132
+      },
+      "xetHash": "4ab6abf057a7a32eb66149410b350eacab8a266d9a8f39dd643c3244689bab77",
+      "path": "bonsai/images_2/DSCF5572.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "28ffe5423eb58568303d8d886b5d7e15db0c595d",
+      "size": 1010096,
+      "lfs": {
+        "oid": "0f82cbb82a98765392524b344ea12ff9229194856fcab7f56410fdc1b3889cc1",
+        "size": 1010096,
+        "pointerSize": 132
+      },
+      "xetHash": "f22c2c30a83b6b692281b579e6d4f621dd2e0e3be371ec5d1d087a6bdab66011",
+      "path": "bonsai/images_2/DSCF5573.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b835edb43652c11a46332af9bec6c5232eed38c0",
+      "size": 988009,
+      "lfs": {
+        "oid": "57c3da9e96dd5542fd1ec17e4edaa2c3c6849755b60fda93cc2f8642a3199f95",
+        "size": 988009,
+        "pointerSize": 131
+      },
+      "xetHash": "42e72fd2a031c993c41be9cdddf8beeccdfab49e74fa3102a66aec658b585841",
+      "path": "bonsai/images_2/DSCF5574.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "744ce462593719849298ea97e6e44f1b0d6b7f29",
+      "size": 985449,
+      "lfs": {
+        "oid": "7da231500f3dbe15a0819006c25d62b111622251477fe702076431547861becd",
+        "size": 985449,
+        "pointerSize": 131
+      },
+      "xetHash": "6bc4e0f4ef6c88d86c7b3c7ecd0e6ad9e30168a6891ad787eb1ad58a8946a7f6",
+      "path": "bonsai/images_2/DSCF5575.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e67d13c6dad2dac6bb7a3e37b7c4048b8c8f322c",
+      "size": 994809,
+      "lfs": {
+        "oid": "eee04aa089b930da9c950ddb3bb19e2eff1ca338847e7efb74d916f6fa3213ef",
+        "size": 994809,
+        "pointerSize": 131
+      },
+      "xetHash": "50ca60d04cb8add4ae85162e490d7e12d0275bad062e91fcf2e4b7578e0417f6",
+      "path": "bonsai/images_2/DSCF5576.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "913d51fd27fd7a5aea5ab961987b4fcca12edab2",
+      "size": 987767,
+      "lfs": {
+        "oid": "714e79b772eb86eb4049edd3a6b270aa5a809964698e3bebe98526e72f612954",
+        "size": 987767,
+        "pointerSize": 131
+      },
+      "xetHash": "29ed569053f143f32c6a75811f41b01d6ee587fcada73eae24aacde23743b397",
+      "path": "bonsai/images_2/DSCF5577.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a8ab35bdc977fbb6b9c6de019151a7cc090c8fe5",
+      "size": 1013856,
+      "lfs": {
+        "oid": "bbeb9465e2c4bd0883f6e52dd826b4e5610f183c57a7594ba7dd0aecf0133bec",
+        "size": 1013856,
+        "pointerSize": 132
+      },
+      "xetHash": "4ba70c37436cb86191ca5ecec75f94cd3e85ac779a3d521028d72b7875e12961",
+      "path": "bonsai/images_2/DSCF5578.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3a8cbab7557dbd95c41ee1e4e097ca070a985027",
+      "size": 984578,
+      "lfs": {
+        "oid": "f7c1a33aed162f729fa62f0e3492eb0fb99aa6108502ff76707debd1d8c13010",
+        "size": 984578,
+        "pointerSize": 131
+      },
+      "xetHash": "9b2114a142158a5dcee5490ef52754add527eceb4bc8dd0a2abe14919254e1d8",
+      "path": "bonsai/images_2/DSCF5579.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5a5546a97fb2016803c17f1404b365c0dbf40449",
+      "size": 1008187,
+      "lfs": {
+        "oid": "fd5eb97d890addacc28935644e9865a646519331868fc41d301eb14a7621c88c",
+        "size": 1008187,
+        "pointerSize": 132
+      },
+      "xetHash": "5d144f99ad8b0270464733c3e516ceaf0c8898aec98bc55447e56ec5330ff5fa",
+      "path": "bonsai/images_2/DSCF5580.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "aebfdce76c4901915edacbe73966627e769550ea",
+      "size": 976781,
+      "lfs": {
+        "oid": "03e617ef046dda77aa2cb94b49bf0bbbc5732a2def9e633cc0f0a28ff60d1fc1",
+        "size": 976781,
+        "pointerSize": 131
+      },
+      "xetHash": "9b73014e594d597db627694b2045eac60f2ffe23714deaf074c90f49a8d32555",
+      "path": "bonsai/images_2/DSCF5581.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5df481716300ce24fa2b2b6442150021323e3e3d",
+      "size": 985890,
+      "lfs": {
+        "oid": "1658f47aa29db57e36af32964e20fab7e88f5fa5fa08c3f488ba2a4bb3102e87",
+        "size": 985890,
+        "pointerSize": 131
+      },
+      "xetHash": "c617c20fa6296274a8d8533047e1eda60143a07bbe0472c0e3e137b607aad232",
+      "path": "bonsai/images_2/DSCF5582.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f5e4ede521c505c7311fb3da89c8c82c7b48deaf",
+      "size": 981954,
+      "lfs": {
+        "oid": "59c5da02aa30c8d8ed9bce999af981148505b2bd368e437e9dfb092f968fca3b",
+        "size": 981954,
+        "pointerSize": 131
+      },
+      "xetHash": "40c03b2c701303f0ddc99cb280a34b8c11113ee8e5d97b1e8d375dce02b05830",
+      "path": "bonsai/images_2/DSCF5583.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e36aeb9c6a2e32e10c74929024bd0065c822ac71",
+      "size": 982263,
+      "lfs": {
+        "oid": "9d9180596d8f48f701d624c437f032731ca3dfb3809a32612da76d0acbe9119e",
+        "size": 982263,
+        "pointerSize": 131
+      },
+      "xetHash": "c1aa929eea6dc039a9a56909cc90d528d2ea8d7ccc91a4df475a3b86d0ea1dff",
+      "path": "bonsai/images_2/DSCF5584.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ad827a47ef7dc1387b1ee697eaadbe180090b3ce",
+      "size": 995052,
+      "lfs": {
+        "oid": "74d76aa963a544e934f8f425748725a44cf1dd821ea429b8bc4de7f54e64f01f",
+        "size": 995052,
+        "pointerSize": 131
+      },
+      "xetHash": "c12c5a7b88462633e1264e11db418efea6459904d89e542283dc43421bc98073",
+      "path": "bonsai/images_2/DSCF5585.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "342d65a671ac971e0b908871e589e80eeac6b703",
+      "size": 962517,
+      "lfs": {
+        "oid": "8e2a758bef446ada3bcb642b00cfcc82b3849140ce2a303be0febdecf333eb92",
+        "size": 962517,
+        "pointerSize": 131
+      },
+      "xetHash": "5f01d94c47b6385cbcc4650a88a216562d58a666f297fd86674a5b49b8291fb0",
+      "path": "bonsai/images_2/DSCF5586.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "717a30c87587819820a9faff2653f9de05d6e8ad",
+      "size": 937301,
+      "lfs": {
+        "oid": "b6396e387f867e8a3649bce710bd0361e54d57225d6869a446889f1170b18c80",
+        "size": 937301,
+        "pointerSize": 131
+      },
+      "xetHash": "dac327c0e5a3298184b7115ffdd2b8838b8a407ae600d923c4867ab94da6c40b",
+      "path": "bonsai/images_2/DSCF5587.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "718f9eb2dccaab4f877a34c57e6325352753909b",
+      "size": 958561,
+      "lfs": {
+        "oid": "12c86c1bc77dfca6d85e212371c1a4492ff33c88dd94b3093914be53f9086719",
+        "size": 958561,
+        "pointerSize": 131
+      },
+      "xetHash": "908af5e3bc390343e80ffc09774088126d40aafe8b03e421386aaa4368994e23",
+      "path": "bonsai/images_2/DSCF5588.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1a54fcf97be2fc222e2921d0460d6f8fbc1f315c",
+      "size": 932725,
+      "lfs": {
+        "oid": "ccb98d4f7201d617c5fab08d6f574552a98071e78dc8ca640cee636ea1d1ea4d",
+        "size": 932725,
+        "pointerSize": 131
+      },
+      "xetHash": "69ead0b7fd124888c000d5b892ed6515b72a65324d60559615d7dfbc64950f0f",
+      "path": "bonsai/images_2/DSCF5589.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a3c773b39ead39b13454b9b34ad0ad7c109ee5f4",
+      "size": 984449,
+      "lfs": {
+        "oid": "39d2181615ad8a10a0c9690da521ba52f57f47dde56e88f10a2192aec1f99339",
+        "size": 984449,
+        "pointerSize": 131
+      },
+      "xetHash": "0993fb154d38efb47e9fd9a968afcb61ffe1379c83102ddf3b564dc731a26fab",
+      "path": "bonsai/images_2/DSCF5590.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3edd14cf0f1aacdf36da6353ed73453b6005afdc",
+      "size": 980224,
+      "lfs": {
+        "oid": "e523b5d4e630cc988b4dfd912c33309d06b9456d886a5e2701e22c4477d33362",
+        "size": 980224,
+        "pointerSize": 131
+      },
+      "xetHash": "acfbb4bffe32be939dac8810f9e3298396d3e92191aef7931533f8d5afcbc7db",
+      "path": "bonsai/images_2/DSCF5591.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "294e2e9194e618f9e3c39b18fa956a319ca24ae1",
+      "size": 998423,
+      "lfs": {
+        "oid": "14c832051a59f60fc832b35fb54606493787386527539e176d40d7768f89cddd",
+        "size": 998423,
+        "pointerSize": 131
+      },
+      "xetHash": "22bea2ad96f60f5a367934214b6c136095753d6a0b9a62a69f55c10191d3ad2d",
+      "path": "bonsai/images_2/DSCF5592.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "91317b362961566a86959610a0950464738c19dd",
+      "size": 1009818,
+      "lfs": {
+        "oid": "a0215ddb43f159cdfe17acef09c93ac3a6395afb607be7d037aa8083dffc02e5",
+        "size": 1009818,
+        "pointerSize": 132
+      },
+      "xetHash": "4bce9a8b4d9e96cb1c9c75ad05a47ac8076ff1779e299f1a5bccb08caaa5ce28",
+      "path": "bonsai/images_2/DSCF5593.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c860b6bab8103eefe50dffd8576b7009fd883150",
+      "size": 1009446,
+      "lfs": {
+        "oid": "44176189ca2ef66c8a9383878ea0e3bee71d0488f9041fba62df26ced11a2c9c",
+        "size": 1009446,
+        "pointerSize": 132
+      },
+      "xetHash": "d32a6a7a6fb4365ec77d1f1e78d6a89671f2661ffb0816d87ab164a680c374e2",
+      "path": "bonsai/images_2/DSCF5594.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "419ffad182c0272082f67ca6cf81c4b98ade401f",
+      "size": 985618,
+      "lfs": {
+        "oid": "e26de7108d49b28763fc48c34e0881976d79ab2015fc53efb6ae3cfd85ea85c3",
+        "size": 985618,
+        "pointerSize": 131
+      },
+      "xetHash": "7bdf22406c0bd2ed0fa81878cf04250ed7c37ca673d6f6c8c1c50ba75eec1ad1",
+      "path": "bonsai/images_2/DSCF5595.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3b57e354e9f5de2f4064771039d3e360695622e4",
+      "size": 1017851,
+      "lfs": {
+        "oid": "4d5d4d140e8c7dd9314044a01c31b95f254db9946a7925cc2e54b1ddc4b273b8",
+        "size": 1017851,
+        "pointerSize": 132
+      },
+      "xetHash": "1a57f8bf0f243000f6ec6dd422bd7920540a5f15e58bf39f6fd7065904a0df8d",
+      "path": "bonsai/images_2/DSCF5596.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "46f9b8157705984f62d0a40fca1907ab56876c68",
+      "size": 1010912,
+      "lfs": {
+        "oid": "7d359ecd0cd3a7ef94e24b6116dcfed70e093668ed121571fad0b8858f414c73",
+        "size": 1010912,
+        "pointerSize": 132
+      },
+      "xetHash": "225d59d99cb43b4e2d174ea0d85927a2dda6f4e1fa1b867a5c8b847376e41398",
+      "path": "bonsai/images_2/DSCF5597.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d69670d7423b08aa8a094bacabb2d3aabf864caf",
+      "size": 986544,
+      "lfs": {
+        "oid": "39525b6aa78730d0996bc1affcf62ce03b670f7b7e64c36cce70926505b3037c",
+        "size": 986544,
+        "pointerSize": 131
+      },
+      "xetHash": "026b85b46f8251c194bab23a066319ee510cd39ca96981f14dac3c8a3b505638",
+      "path": "bonsai/images_2/DSCF5598.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b28434a1e0323af76956665a74e651a2929ab0ef",
+      "size": 986694,
+      "lfs": {
+        "oid": "9fa99dda679bce6055f4c74244d7c2325869e111dabe68947c9279cddaaddbe4",
+        "size": 986694,
+        "pointerSize": 131
+      },
+      "xetHash": "545c2e7add05b3d5d1a648d0c046c3d061448363119f1c6b351548c29a037892",
+      "path": "bonsai/images_2/DSCF5599.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6bfc99ed5001554f04843361311dad58476d602c",
+      "size": 1026946,
+      "lfs": {
+        "oid": "2ce45967c1d76a068352fc8c36134381a1f5f5a5034d1910ab30e573d3a2150f",
+        "size": 1026946,
+        "pointerSize": 132
+      },
+      "xetHash": "71f6697c77b50a0076d0a91d3a9d8b4359898baa4812f6860d9540ce21968793",
+      "path": "bonsai/images_2/DSCF5600.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "eb26875e3cf88b47a7e2744267485a6b75fc5edd",
+      "size": 990619,
+      "lfs": {
+        "oid": "4ab391468ba447c5f601ecded5717bdd122b60ee7f991a08bf8881b6e4a61e5a",
+        "size": 990619,
+        "pointerSize": 131
+      },
+      "xetHash": "66edfaec38c12a29ac9c05da905a52b3ca16213a32fd548950f07fdd1d7217a0",
+      "path": "bonsai/images_2/DSCF5601.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b3e5bbc9118e79e0b8442b50f122ea089a6cb8a0",
+      "size": 970376,
+      "lfs": {
+        "oid": "8eed7242ceb5dca1feb272529031d5265b13c50ee8c6e72707f33edf7120ca6b",
+        "size": 970376,
+        "pointerSize": 131
+      },
+      "xetHash": "66ae3a4e1ce2a28806aa53f0d33064982ee90aacf67a5962b056ab0075951882",
+      "path": "bonsai/images_2/DSCF5602.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "27fc2ae0f17fbcb6578ad750e2f79130e773012d",
+      "size": 1003000,
+      "lfs": {
+        "oid": "b66c1e0a16acdbcc8277e0b8daff7c1c1a44ed3cf0d41e29f3fb2eec1436b256",
+        "size": 1003000,
+        "pointerSize": 132
+      },
+      "xetHash": "a425fd4544cad35a2e636c351ddf535fbe7dd395fd3b5cdf699f4860a63470b8",
+      "path": "bonsai/images_2/DSCF5603.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "10fcea02bff4d422969605d1363d47f436626206",
+      "size": 992520,
+      "lfs": {
+        "oid": "3a40340bac0989cbd0825fcba22a4fd578b7cf744679d723c0283f2549191efc",
+        "size": 992520,
+        "pointerSize": 131
+      },
+      "xetHash": "0c01db407ee39a198db712dfa1ff9f661f9ead0b86d4120fcf6a2815cb4a59d1",
+      "path": "bonsai/images_2/DSCF5604.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c4037eee07c6acf38a067376dbbcaf75b8226e2f",
+      "size": 989176,
+      "lfs": {
+        "oid": "7f3d2c40549102e74c3fa011ccd83372f7a04d5fd386b8000728b9adfb9fd52c",
+        "size": 989176,
+        "pointerSize": 131
+      },
+      "xetHash": "826f5f1cbfff3de9b947212bc613edb863a0765e2330d5d3bd41a4745c55acbd",
+      "path": "bonsai/images_2/DSCF5605.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "423e77f9f41d27ed0f50efbe3c7e327ff85a5ffe",
+      "size": 956950,
+      "lfs": {
+        "oid": "1aa715b8c9818aa8a39485a7ddb2edbd77b34c97282545945e9a6b4e42dd5346",
+        "size": 956950,
+        "pointerSize": 131
+      },
+      "xetHash": "f796a903e9455c98c0310d7075acf15fdfd6cc8a87701ffa9f8f20471eddab9c",
+      "path": "bonsai/images_2/DSCF5606.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "be986a3ae979f7c599b807f5d1475f7f4f83e31c",
+      "size": 977410,
+      "lfs": {
+        "oid": "9ffefc78ad33863e175696c6f76a7a58622bbef76820c3731c9c872574798e12",
+        "size": 977410,
+        "pointerSize": 131
+      },
+      "xetHash": "cc5a36215d0baf617fa7cd8105610d61771db904f141cf39b10c72926e7b057b",
+      "path": "bonsai/images_2/DSCF5607.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "87de37c3ff9c3b572d6ef8e66b5c3f5a54a984b2",
+      "size": 965180,
+      "lfs": {
+        "oid": "4b9964856febf20bf790e66879b3288c82e6ee25f1ad5dadd200ac60c8b7f013",
+        "size": 965180,
+        "pointerSize": 131
+      },
+      "xetHash": "15d8130be8500e8c1320891b2adccfedbe21e2a882fbe61849bb41b6ff239290",
+      "path": "bonsai/images_2/DSCF5608.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7fca50ae3e46660cf21695188a3942961fdb927c",
+      "size": 950890,
+      "lfs": {
+        "oid": "9f6347b9fdbc2e856e361862348dca0cfca3580335e783fd7923c1f3f12ced1e",
+        "size": 950890,
+        "pointerSize": 131
+      },
+      "xetHash": "f73a31186e23ac4e5de91e316e30f21bb48a0f62eddcf53d10f4e58b599e504e",
+      "path": "bonsai/images_2/DSCF5609.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "50a15ed2e309877cb46f5f30df6299cc5838cf72",
+      "size": 903389,
+      "lfs": {
+        "oid": "9a3c14afa40fc869a1ec3788f9ca98908eb491e5c938f1a02ab4ea71e9105e8d",
+        "size": 903389,
+        "pointerSize": 131
+      },
+      "xetHash": "7d686f79542f924c607fc4b5fc52aad58085cf2b34ddfa14614ced4914deb9f4",
+      "path": "bonsai/images_2/DSCF5610.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a33b66a76fba3c15a8afe3ba28798392727d5211",
+      "size": 946482,
+      "lfs": {
+        "oid": "c0cff89243f57bada21278b68fdd013649b638911def2a2a8d98d43c9deeb518",
+        "size": 946482,
+        "pointerSize": 131
+      },
+      "xetHash": "e06604404b09da37a3513a087533b4448e9fdc1e90f509b8a3449d6530aa25df",
+      "path": "bonsai/images_2/DSCF5611.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "94b0654d3d6bf582c1b76e71ca9cffd39d9aef47",
+      "size": 968606,
+      "lfs": {
+        "oid": "886d0f31c1c187d0494cec999838361b89829940b199b112d04d8238b311fecc",
+        "size": 968606,
+        "pointerSize": 131
+      },
+      "xetHash": "0af7c5f17a41d2478de2e39ce02252029b511fae341d17fc152a9d9cefc8ea01",
+      "path": "bonsai/images_2/DSCF5612.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "935c4133b41335da6fc1b5f0760beec5ee7e4d79",
+      "size": 977588,
+      "lfs": {
+        "oid": "f747d0dced185aeafee27e9a9645e0f06efec467b50fca5b8c7879a1fd3d487c",
+        "size": 977588,
+        "pointerSize": 131
+      },
+      "xetHash": "49fa40d53ab89b56b4ea1a3c7f2c025504d9c6f7b8258d072bc0b0c501c1acc4",
+      "path": "bonsai/images_2/DSCF5613.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b5768d6aba4c40e92931e8b2c35bd6e092edb918",
+      "size": 976289,
+      "lfs": {
+        "oid": "7ebadac8f5259efc6cde33f4fbb83722f680d589985e70eb3f4148104b05d58a",
+        "size": 976289,
+        "pointerSize": 131
+      },
+      "xetHash": "a6baa079ecfe2e22e0453544cbbfcd172350d525a48368ab1dcd94c8aa66bd17",
+      "path": "bonsai/images_2/DSCF5614.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "df9f49339475e0a02427e03dde49a7eaa26d38ed",
+      "size": 991155,
+      "lfs": {
+        "oid": "faf2a28356aa19c36ede7f2ee9d4da012fe4ef9fb2fddf367c150f3fb0668c59",
+        "size": 991155,
+        "pointerSize": 131
+      },
+      "xetHash": "a45816e91c21f77c158ea0c710ecc15ef867e6ef31e044a9a9ff46be017ac307",
+      "path": "bonsai/images_2/DSCF5615.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e1a59d4eb0ad7811e1aec2384d192ba009c6ea20",
+      "size": 995831,
+      "lfs": {
+        "oid": "765c2dd9c4e38f034c82a32ea28853db9fd74a07acde3110186f24f72c423755",
+        "size": 995831,
+        "pointerSize": 131
+      },
+      "xetHash": "22d398e34f6a9000b4e063a769e9948c60c6b34af21a511547b046be8c6455e7",
+      "path": "bonsai/images_2/DSCF5616.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d93b52871f8661cf84303604fd066a3462e506be",
+      "size": 998703,
+      "lfs": {
+        "oid": "4883f0ef9c4783b3971e0bcbc8286b4a3c27a61eadd7d7a2f344f5891cbd4995",
+        "size": 998703,
+        "pointerSize": 131
+      },
+      "xetHash": "6138ebda07f532bcfc6173a6b960a9928ded6366fd588dab569e4807cb3404e8",
+      "path": "bonsai/images_2/DSCF5617.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d08379467aa0de9fcb9dd3d92639b327cdfd92ab",
+      "size": 1000937,
+      "lfs": {
+        "oid": "878ad38dbcd85a334455e26696e32bf1682bc8d2ab98a6373efd6585dd9d5df8",
+        "size": 1000937,
+        "pointerSize": 132
+      },
+      "xetHash": "374a58a2f55be5d2600518237441a48fd5860b4438a5d5013b64b9a21494350b",
+      "path": "bonsai/images_2/DSCF5618.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "26709e2d417aa8935c00ba00b1f050e1dc334bec",
+      "size": 1018444,
+      "lfs": {
+        "oid": "7533728e846d63b8a3f2482fc8af1c75ab00e4f11f86ad348541872f855e5837",
+        "size": 1018444,
+        "pointerSize": 132
+      },
+      "xetHash": "451157e225536fe1f4880d59f278624b04e46d411e5696371628e4727ffa3858",
+      "path": "bonsai/images_2/DSCF5619.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9c7d1a4d464532de3eb563a142c37039894182ac",
+      "size": 1032176,
+      "lfs": {
+        "oid": "b03d16c0b58208505e17edd7c891c111850ccf1629882e37438b5c3de5af6d17",
+        "size": 1032176,
+        "pointerSize": 132
+      },
+      "xetHash": "8820a2ac0b52c804a30d699d01fe891ed8766d0d14f4d1aaae3b52b566e838d9",
+      "path": "bonsai/images_2/DSCF5620.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ad9275d4e894959a4a3f1fb1ab3b1c832c91ac42",
+      "size": 1011473,
+      "lfs": {
+        "oid": "549e73d1401e422938180cc26ce4ae63320f6b028e670357548d086687f6910e",
+        "size": 1011473,
+        "pointerSize": 132
+      },
+      "xetHash": "c7060be62487ec78507b99002bc352271a57d67bbbcfbcc4be6b814ea8470025",
+      "path": "bonsai/images_2/DSCF5621.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "083104b1c6350164d326f2ed1a97b636e2cf2309",
+      "size": 1020574,
+      "lfs": {
+        "oid": "480381ed598546bb0552145b8020c0eb0352eeaa29055705a8f81bdc5e93a72e",
+        "size": 1020574,
+        "pointerSize": 132
+      },
+      "xetHash": "5cf8d1cf4de7a2402f97b76bcf4b71df1e4f1510ed70d0d5bbb73d7476fb0fb6",
+      "path": "bonsai/images_2/DSCF5622.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "82c7513cf66f4ffcac87cf741ae1ba348f8c36e7",
+      "size": 1006667,
+      "lfs": {
+        "oid": "eed4c31dee42450c4ab330cc346e4dc628491509c475fe6df69b7248cb32253c",
+        "size": 1006667,
+        "pointerSize": 132
+      },
+      "xetHash": "618da0f1cfa98c0d8c22d452c6364f42518ce6716423cdd68b81300021f581fd",
+      "path": "bonsai/images_2/DSCF5623.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2c894e16440801fee7932f4349a1f7a64900b016",
+      "size": 1013798,
+      "lfs": {
+        "oid": "060972f7f1a7d64c010d5389ed6914cd3d4b1d945341527e3c0dafd1ceb7bf7b",
+        "size": 1013798,
+        "pointerSize": 132
+      },
+      "xetHash": "16b0658a0403383966cb138a0c8fb8c082e9d507b4ed5e13bcc5b83f25b6e08e",
+      "path": "bonsai/images_2/DSCF5624.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "69e22bcf719dc141061a7dcad11e4223411ad60e",
+      "size": 979731,
+      "lfs": {
+        "oid": "ad70603c75647f390d9d541c395443ffd025f4112b51a03932c3a2c73187d29d",
+        "size": 979731,
+        "pointerSize": 131
+      },
+      "xetHash": "b4f0170e8559245ec6fbd876e6b5e7929ad0fdfb87e2f3bfdef7ece5cdf578c7",
+      "path": "bonsai/images_2/DSCF5625.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ee41d16dcdf72e36ffad627b514eb164e6a54a17",
+      "size": 991986,
+      "lfs": {
+        "oid": "94a5c3a3519b44e9add7905c65ed2fed51c3a36d068db4d542e8c983d48e8041",
+        "size": 991986,
+        "pointerSize": 131
+      },
+      "xetHash": "5e453be361ed90ebc990b2678a884947a656e0cefb01ef2589f97d50f517665e",
+      "path": "bonsai/images_2/DSCF5626.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "013367554fafddbcce72c64162fcf955da88783b",
+      "size": 968320,
+      "lfs": {
+        "oid": "18cf715b76c3bfcf6735bd4cf03ae154ad0c48edd15dcc92d604ed9a7d804422",
+        "size": 968320,
+        "pointerSize": 131
+      },
+      "xetHash": "2e54a0299f039e8d495094eef30768094aeec500a565b57bdadd83b05c1f6b9d",
+      "path": "bonsai/images_2/DSCF5627.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "316f5d79a6781953fefea16fd486825eeb261843",
+      "size": 983242,
+      "lfs": {
+        "oid": "238fec785a0c35ccececdb2646a4f59f52310b73b9a789ad488dab413321aa31",
+        "size": 983242,
+        "pointerSize": 131
+      },
+      "xetHash": "420ff8d7d82cc9f66247dcec61b12e5fd974f90b356ba0145562144ae2a53db7",
+      "path": "bonsai/images_2/DSCF5628.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c052a58da20ebc8a83808bf956ce5d0c0c3b1019",
+      "size": 962428,
+      "lfs": {
+        "oid": "e8e1584b856f63262d1d6373362b07d2918a4320df7c22d5c276b2343263b0ac",
+        "size": 962428,
+        "pointerSize": 131
+      },
+      "xetHash": "45e4caeb5ae8463ca216fb3e6c9310e488a9b4bf533914ce4dd88f1846718186",
+      "path": "bonsai/images_2/DSCF5629.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "93b50946009325cb3b393325951dd3958f7275cc",
+      "size": 977818,
+      "lfs": {
+        "oid": "f41e4457703fdac0b229c1c4cbe24be4aed460f71bb401b3fd11a5ee33b377fa",
+        "size": 977818,
+        "pointerSize": 131
+      },
+      "xetHash": "b8e95bdc243a5e9d369d8ee013daef8b8553125a2bd96c40fb1fe517a5d60d19",
+      "path": "bonsai/images_2/DSCF5630.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2f53433c2f4fd1bd205ec0d06df7d230b2d48d56",
+      "size": 982412,
+      "lfs": {
+        "oid": "34bcbe9bd430ac66fa7a39b8a80d393e0f7051149ab1a2d175ae84a809259222",
+        "size": 982412,
+        "pointerSize": 131
+      },
+      "xetHash": "e2d7c753d629f09e661235b28e5c7f3b7741131cdafe03f9750bf9133edbed06",
+      "path": "bonsai/images_2/DSCF5631.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7f737bf78bd1f623fec525a2f80fded105bdc5a5",
+      "size": 978232,
+      "lfs": {
+        "oid": "dc630d6f2e48623c1b9f948ab1f52e5033bc64dab9523df294cc10730bc8ee95",
+        "size": 978232,
+        "pointerSize": 131
+      },
+      "xetHash": "ff05f2d19c0fef14cf37d94be5b28dcb6fcacbc04aa826799301bbaf3a063351",
+      "path": "bonsai/images_2/DSCF5632.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "93c722d595a3342c8cbd90f5e8f8384924a8c94e",
+      "size": 955343,
+      "lfs": {
+        "oid": "7b0d91777816fc033832012a871010ccabc1bb3a0110800be62f4991eaf374ee",
+        "size": 955343,
+        "pointerSize": 131
+      },
+      "xetHash": "c3d931a83d5763f00021367fd81f6e0fff80c4e37b213e9ad12a1d3f676b036f",
+      "path": "bonsai/images_2/DSCF5633.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c854dc8207d57fbd2cbe7f587c137da6cf1cf1c1",
+      "size": 924787,
+      "lfs": {
+        "oid": "be44cb8f3289ff20aec80bc198868a40040f25e4b3f5cda3da7e14556bb343cc",
+        "size": 924787,
+        "pointerSize": 131
+      },
+      "xetHash": "506e76a1c07e1337614d944806ab14ff2c7ed2f9e20cbcfdbb209c62041eb12d",
+      "path": "bonsai/images_2/DSCF5634.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a54fe6cc42a69fb1dce353350d8e57d775f550b0",
+      "size": 889800,
+      "lfs": {
+        "oid": "57580c4e1dfbc497058d87762bc2ce4e078662372cab80a8c76d02fd752276a8",
+        "size": 889800,
+        "pointerSize": 131
+      },
+      "xetHash": "4400c4456382b27200bcae9a186fa2547a9918750ade8d5742b530bd479ced10",
+      "path": "bonsai/images_2/DSCF5635.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6f1038452ab15df85cff5e2a2140f059295dd922",
+      "size": 932222,
+      "lfs": {
+        "oid": "6669fb56cc51b12e3d81e5366628546cf10a7ea476a045cefad03dbc264653ae",
+        "size": 932222,
+        "pointerSize": 131
+      },
+      "xetHash": "0bc796ef1a4009e5ad59d112a8e9f6975330b1b1686d0bc8e6459e628600f8ad",
+      "path": "bonsai/images_2/DSCF5636.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "36552db683d45d8323fbf0919b0b845c4953e68b",
+      "size": 965008,
+      "lfs": {
+        "oid": "a64421c8181a11a529068dbc272727a485bed9cfb743a8d4cc1afc56ddee8087",
+        "size": 965008,
+        "pointerSize": 131
+      },
+      "xetHash": "ad0a55b25a7b03c7adbd1eea77ed61ea6a9d21e2cf561c0cd2e94ce933b9478d",
+      "path": "bonsai/images_2/DSCF5637.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9e0f5931d56f708664d8d5d44db6242a9bd3224f",
+      "size": 969022,
+      "lfs": {
+        "oid": "97709fff3c853e19e44547374142bce2661fb146a8e38467c4d68d125910a45f",
+        "size": 969022,
+        "pointerSize": 131
+      },
+      "xetHash": "1a942018b047af43c97cb3af93cbbcfd3863b5b339e47a075d85f8570443351e",
+      "path": "bonsai/images_2/DSCF5638.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2410c77d74cd1a91aa18a4f620777d9a5ed4da82",
+      "size": 958357,
+      "lfs": {
+        "oid": "e49101fe1633bdc2aadaa6dde108e1d01b8840e34b2c9208c416a2a0978e29fa",
+        "size": 958357,
+        "pointerSize": 131
+      },
+      "xetHash": "852d19e0ec37195778bd21c0cefc76f244cabbfb25949d3bbf0ed9be94c7da78",
+      "path": "bonsai/images_2/DSCF5639.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4f02eab336ac5c21d49754a3ae0ab23d6b774f42",
+      "size": 961537,
+      "lfs": {
+        "oid": "87bc69eb0410926e7afbfbb4a5dedd2541735f4421cb770fd53932f31a1b881d",
+        "size": 961537,
+        "pointerSize": 131
+      },
+      "xetHash": "3b8b856e2f1b7ecb1ddb89d1ce0a7f9085fc52dcc6359bdc97403cb587b89189",
+      "path": "bonsai/images_2/DSCF5640.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "512c35699e0adff433ae0ff8fe04554dab63c0a0",
+      "size": 959283,
+      "lfs": {
+        "oid": "6e75f27a1ab29f85d8e6add5335cf5724679db02f3a0418b1f265d2ca1322ed3",
+        "size": 959283,
+        "pointerSize": 131
+      },
+      "xetHash": "5016bf33cb1e285e6b6f01dbce32e402dcf422f1a5d8b53feaa5435ed7f49f24",
+      "path": "bonsai/images_2/DSCF5641.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bc26b62539f7bb8e2e2301a774d9156535e921ae",
+      "size": 989331,
+      "lfs": {
+        "oid": "6910be835e05e9d60955e724bc5e463e61afff20dc7148d143a4a659ba9243be",
+        "size": 989331,
+        "pointerSize": 131
+      },
+      "xetHash": "b0b8587eb36aa085f0e390d766dd3d729fbacf71554711aa2855d4f2ff1bb7c8",
+      "path": "bonsai/images_2/DSCF5642.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d45d27eb2e7f0fc6f2df54873da387755e1dddb2",
+      "size": 975920,
+      "lfs": {
+        "oid": "8cf825dc8555b6f08c7599f1a3f9662ab7361b874aed4afa5231982fcd2c555f",
+        "size": 975920,
+        "pointerSize": 131
+      },
+      "xetHash": "ccd696da10f7cc1724da73a62f3cd34585c7bf5fb5377cde8cc9bc800f87c475",
+      "path": "bonsai/images_2/DSCF5643.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "437f16bbfaf249b88209d693d4fbea2e234d7104",
+      "size": 996177,
+      "lfs": {
+        "oid": "f41a91910a2608d595814deb0ac03ae64db338af1b104b7d5f938ff24c88eed2",
+        "size": 996177,
+        "pointerSize": 131
+      },
+      "xetHash": "dbd00c685efd82accee1894d9c33bd0dda957286c2b02b1aabd4eace4fc9667a",
+      "path": "bonsai/images_2/DSCF5644.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "97c204aca2589b7a5a2299b35090af0a0d8b4152",
+      "size": 993239,
+      "lfs": {
+        "oid": "2f0a7aefbda38a32c14317f5850bdddaf9c94a09ec7a1249a82f8cdf66d7cf8f",
+        "size": 993239,
+        "pointerSize": 131
+      },
+      "xetHash": "682b2478585ca5c71e1a732f667dc5f9e84e4d2bc29053fbed870b7ab0ecbd4e",
+      "path": "bonsai/images_2/DSCF5645.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "8c8da6a16f32a288bb88c407d1a6e778fde8a827",
+      "size": 968203,
+      "lfs": {
+        "oid": "178126be57a2297f36447e9f681d82be04c097ec1522c29b68f0c01ab1f1cfa3",
+        "size": 968203,
+        "pointerSize": 131
+      },
+      "xetHash": "dd60ee2a6cd6779550884e8d92ff0578326a7d8879df7820858665486773c027",
+      "path": "bonsai/images_2/DSCF5646.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "0e9ce5a48fa43a5ad7a443f8efee97aac9e5b333",
+      "size": 1028953,
+      "lfs": {
+        "oid": "00383517751008fca9b3f06737cab40131ab39f96e300d7d6d6c7ec7df9a7201",
+        "size": 1028953,
+        "pointerSize": 132
+      },
+      "xetHash": "9ab91b59415550efa7c6cee07c3cf6dbab54e4ef533b31bc9a44143db75c95b7",
+      "path": "bonsai/images_2/DSCF5647.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2d631056d62dc0e61118a8778228987008792298",
+      "size": 1024590,
+      "lfs": {
+        "oid": "3752de9fc50b0fefcdfd9d61d20bb963c3437f75c2f899f44c41ae4f4f990370",
+        "size": 1024590,
+        "pointerSize": 132
+      },
+      "xetHash": "a1e945c947f1bd6ffc3f7478b29d429c7b530e484ee99cd8c71f89ff5ac0efb8",
+      "path": "bonsai/images_2/DSCF5648.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d23cc62109f58efcc99e247d156cdf9a5300e21f",
+      "size": 980165,
+      "lfs": {
+        "oid": "835fc38a205a526de986b80d749c4048cce22281bc8ee3b1fd85610e075dd3f1",
+        "size": 980165,
+        "pointerSize": 131
+      },
+      "xetHash": "2d2c3096e887ec41dcde121d331a1294e0dc97dcc1fa92f7591ea6d4b7256216",
+      "path": "bonsai/images_2/DSCF5649.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "0c5550a6a16be9cfa87850cd72675fe7c2c96122",
+      "size": 990008,
+      "lfs": {
+        "oid": "e01fbb6b5c3769ee99c1b8b7d7dbe9ac0f06f8a5338a3a348774cc2ac7372313",
+        "size": 990008,
+        "pointerSize": 131
+      },
+      "xetHash": "3035091992345b988660da29e12b6d891a5c24c3c3ce703a9045c16cf5d885a9",
+      "path": "bonsai/images_2/DSCF5650.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "76b60a900e6f663bb29ab994ee13871751036c28",
+      "size": 987488,
+      "lfs": {
+        "oid": "92c7975686b1ad6af9f87c19c37329289766249b8cc4cdfab615f0300a8be33f",
+        "size": 987488,
+        "pointerSize": 131
+      },
+      "xetHash": "cea6c8c9c17c090ec8b5d3e9ae3a85c7e2306375a0ce10dd9fd3b4ff5a70a4e2",
+      "path": "bonsai/images_2/DSCF5651.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ff8060466acdddfcf588d6c226982ef955f43a2b",
+      "size": 971915,
+      "lfs": {
+        "oid": "b2601459cf63d9b1c2d86b32ebd8ddba527a155e35685de778e4e2b8463bd930",
+        "size": 971915,
+        "pointerSize": 131
+      },
+      "xetHash": "dab5087e21e8a784eb84fca59867e44becedd1d026c1b23f505d17650e280eae",
+      "path": "bonsai/images_2/DSCF5652.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "734f3583ebd4652f1aefef71591659a09009217a",
+      "size": 975016,
+      "lfs": {
+        "oid": "42dd7360e76f0972a36a9865a8b462799f45bf5b199170113aa62162ec6f315c",
+        "size": 975016,
+        "pointerSize": 131
+      },
+      "xetHash": "4de999d8bb71f6a0c9ed2a73916a8163b0c8ea495143b61a29a0f59cd98801eb",
+      "path": "bonsai/images_2/DSCF5653.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "cd7a5de1d13669f3b26a82dbbb5174ca7668ce5a",
+      "size": 955355,
+      "lfs": {
+        "oid": "dbf3505131eb2e41bf13a0288eba97cbaf718c2ecf541317de82003c8a938677",
+        "size": 955355,
+        "pointerSize": 131
+      },
+      "xetHash": "1a536f9adbe11107ff231dedef30dc5a58e0b881c847b867334009cd9a789a5e",
+      "path": "bonsai/images_2/DSCF5654.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e7c17fe9503763c3210990e34f6aa1f6fa04823a",
+      "size": 960383,
+      "lfs": {
+        "oid": "6182b62252f4f4ebacc93c3af0398c9aa31a6ca61c2babf5e53818a18c81d4ee",
+        "size": 960383,
+        "pointerSize": 131
+      },
+      "xetHash": "c04d190267c3080dfcb3e27194b3a9203ae6ebd2256398d679cec6fa63f99a81",
+      "path": "bonsai/images_2/DSCF5655.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5004ec803e117311c1184c6e9ed92c2e26d180ce",
+      "size": 938850,
+      "lfs": {
+        "oid": "e8d70376c35c2b51b704623d6db18d0d9726cf23856f9305f3a8ccb5f8d1c585",
+        "size": 938850,
+        "pointerSize": 131
+      },
+      "xetHash": "3645cd7d29cd6c28d054aa69a3467896b9d45a893607832c3cb30830c861bfcf",
+      "path": "bonsai/images_2/DSCF5656.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9de9f21c1842ce928ad3c942e2a18b5c22c93184",
+      "size": 918016,
+      "lfs": {
+        "oid": "d09cbc5d286b6f857f97a46589ad702eb687a1027c2d0d3c12f610cf71e5d626",
+        "size": 918016,
+        "pointerSize": 131
+      },
+      "xetHash": "1f9307552f71d6a21f8b98fb126b9b4bc5f3450356117bb4fa455c7e7994245c",
+      "path": "bonsai/images_2/DSCF5657.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "014c717434b3bd460ce23eb24ee12dd8736ceeb9",
+      "size": 916263,
+      "lfs": {
+        "oid": "37b035f6ea641e7af37c58584e255931883f20dae060a2c52476c4742a358b33",
+        "size": 916263,
+        "pointerSize": 131
+      },
+      "xetHash": "bdb47745164f7bc7bc2e0f1f461b330b0261dc1267eb2dd558fd193bb873c7ad",
+      "path": "bonsai/images_2/DSCF5658.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e6f7c89b6237e88b6817da94592b6fd69507c8cf",
+      "size": 912485,
+      "lfs": {
+        "oid": "e11b3dced260dfc4e991daa461172c549748d54b656c878a1da9e0d922c87540",
+        "size": 912485,
+        "pointerSize": 131
+      },
+      "xetHash": "9d91e59dc017eb36d7f01e2cd2721884a0c8d3712d7bdf7505b142ca1efbf71c",
+      "path": "bonsai/images_2/DSCF5659.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bd85b3ab1de7fe83ee5dc8f56ae90c085d9577ed",
+      "size": 917808,
+      "lfs": {
+        "oid": "32d0433c63b6289296e77f59befcfc334059c5f94556effa1255d0b464b1c27f",
+        "size": 917808,
+        "pointerSize": 131
+      },
+      "xetHash": "ad35b1cd77081020de13bbd3eeaa331c597ec2bd28410ec4360efe4f29b950b6",
+      "path": "bonsai/images_2/DSCF5660.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b102887389f7ca194ed0398ada4877933ea8eb4a",
+      "size": 916295,
+      "lfs": {
+        "oid": "8ac50bccf5efa73acc305e3638231c0e01f58363db92eb718b8ca7ad99b6c7c5",
+        "size": 916295,
+        "pointerSize": 131
+      },
+      "xetHash": "898a5ee9ea3cdee33971f4dc3f8eaeace00cd0af56523824c31dfb1a677eb47f",
+      "path": "bonsai/images_2/DSCF5661.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "35805f560040eca942291174727a74ddcbb2e4f3",
+      "size": 894273,
+      "lfs": {
+        "oid": "ad119be88a5627edede49befa9340038f44beab827c4609574e57127ce9cbcc4",
+        "size": 894273,
+        "pointerSize": 131
+      },
+      "xetHash": "61679c1f638320bc7ab2001c244a2cec13f05e5dd649a2cdb27e169d202c0394",
+      "path": "bonsai/images_2/DSCF5662.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "37f25f0c83a337db4215ddcc79ee74a898a30e81",
+      "size": 946233,
+      "lfs": {
+        "oid": "e4a918e5b96a52e5930cb85e263f98311481aa2b086c2c6e8e579af718209249",
+        "size": 946233,
+        "pointerSize": 131
+      },
+      "xetHash": "775b8d6ae1f5c9164042c46f6646e036e1fea95e4744001c5589a4d11aea4296",
+      "path": "bonsai/images_2/DSCF5663.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "11d2021fb786fe2ab6206655805fc75e2ab086a7",
+      "size": 962126,
+      "lfs": {
+        "oid": "e334e51b5a6124982dd8bdfa94073daaf765215e21600f507b7e1b535e744026",
+        "size": 962126,
+        "pointerSize": 131
+      },
+      "xetHash": "3937e948646b48147655c0cd807323c5179282a54184849423d1b5f36aa3addb",
+      "path": "bonsai/images_2/DSCF5664.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7ac2e90265775fad1173ac162fb4b38157afcf64",
+      "size": 1017514,
+      "lfs": {
+        "oid": "93825cbf1844683deaba1667054e6b63dabfba20031c84abb2fc2e7f2ebb13c6",
+        "size": 1017514,
+        "pointerSize": 132
+      },
+      "xetHash": "eb6b3b7399ba3782b1254ce34acb63ca2f152bd5afbbfd0b99411af15dd764fc",
+      "path": "bonsai/images_2/DSCF5665.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e6bc62ca4f24d7da22e49fb8cda014921e3f8d30",
+      "size": 984453,
+      "lfs": {
+        "oid": "fbcc71adbbb5e9c1adc2288fa6b410aa34af4388cdcdc3370fceb71a71a6f59b",
+        "size": 984453,
+        "pointerSize": 131
+      },
+      "xetHash": "a5ce24fd43f86eaadee616ca6b39d4092abe0371017645e90d6b9adbaf1d28e8",
+      "path": "bonsai/images_2/DSCF5666.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "dd29f82775bf4f1e294e691f5fc03ca5571a5f76",
+      "size": 988839,
+      "lfs": {
+        "oid": "f0ce7ca641ceaea450c0044948f9d80f349a641a2799770d91404a346dd0e78c",
+        "size": 988839,
+        "pointerSize": 131
+      },
+      "xetHash": "4a520b73bd61fd609f5bc29d08837ad4965b95d77094757ffbe6faf650a94139",
+      "path": "bonsai/images_2/DSCF5667.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "212d2eb33d95a7931a4dd3759adbc58afb24beb8",
+      "size": 1029039,
+      "lfs": {
+        "oid": "906a2a8ad5a91c2f40f4600b8dad1db88c5e02023c4ed83fa3a77a4c86b1cda7",
+        "size": 1029039,
+        "pointerSize": 132
+      },
+      "xetHash": "9016b10aef09b37128a0ecc18dbd2ed600fb1b1201a0edead7bb19659d841e9b",
+      "path": "bonsai/images_2/DSCF5668.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "acdc505e8e1e555085e63693e4cf811e6f18465e",
+      "size": 1054130,
+      "lfs": {
+        "oid": "e83537c5d66d92a75c3ad933e15535e46039a4a1c1a6eab770de1b6312c29b07",
+        "size": 1054130,
+        "pointerSize": 132
+      },
+      "xetHash": "ccd43358fa795ec7e2e061890dcc085b56257d7ccb1bd30d91af244582cf2e27",
+      "path": "bonsai/images_2/DSCF5669.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a176faa95fc2160b8d74a11c936b44899ee8cc57",
+      "size": 1065297,
+      "lfs": {
+        "oid": "0d8f11155293fdc593a66a7c97c36ad4d61ee37f4c2528a299d8eaf6695a29f0",
+        "size": 1065297,
+        "pointerSize": 132
+      },
+      "xetHash": "357ec939535e00d66ecaa056c08e964ba647bde00dbb92713ce9d05cf84a680d",
+      "path": "bonsai/images_2/DSCF5670.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "212d44787e082dd6cfc28a5c51dc4a905d6026a5",
+      "size": 1065172,
+      "lfs": {
+        "oid": "b287b5adb06ada0a8bcf8dd6a7ef961d7f3cf46eedb4be0ccc19c76cc6459251",
+        "size": 1065172,
+        "pointerSize": 132
+      },
+      "xetHash": "02f5577bedecdc16b9c6fefe1ba573bf3fe2e119954d4f2aa92ffe95de5677c5",
+      "path": "bonsai/images_2/DSCF5671.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "14951bbf5e66de49c88f6ff7f56f459ebd596a76",
+      "size": 1078794,
+      "lfs": {
+        "oid": "ebcafa55177756e9b4879cd2e0d1d663d688c43d751955e30dfdf3ffc4a86017",
+        "size": 1078794,
+        "pointerSize": 132
+      },
+      "xetHash": "fe8377a5e6b8c51ff767c3970f1c397a609bf0c61f4e91ba9833fe7b7ee73aa0",
+      "path": "bonsai/images_2/DSCF5672.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c8eed63a59d3d0b7aee516017916574ee4604c0e",
+      "size": 1050684,
+      "lfs": {
+        "oid": "6dfdf17c7f43a33031183f57f2cf43af9510dc05af89bdc930a9329893b386a5",
+        "size": 1050684,
+        "pointerSize": 132
+      },
+      "xetHash": "b4e545c845f89217a197d03613188b4e23f8efb7b2b74090a1b2c2e555f672cb",
+      "path": "bonsai/images_2/DSCF5673.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e8cd8fa77032c9520dac3ea628394544aef547ac",
+      "size": 1070676,
+      "lfs": {
+        "oid": "a7859d0a449029ee3d6b2965197e74b82630d7c923e33862d05e7e6111cebfea",
+        "size": 1070676,
+        "pointerSize": 132
+      },
+      "xetHash": "f4b00734cd10dc9978ef7371b65853d911aa035e6dfdbec01dcff6418296f6cf",
+      "path": "bonsai/images_2/DSCF5674.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5193632008f34161484003da6e61b19226b650fa",
+      "size": 1057246,
+      "lfs": {
+        "oid": "9398f1b6c0e1c903b042a3dac002f456582a705c85304aa92fade942280e027c",
+        "size": 1057246,
+        "pointerSize": 132
+      },
+      "xetHash": "51383af5ae23caf7f4c8d1700cb2fb84b7f03a7608584902d5851b23c5f9db46",
+      "path": "bonsai/images_2/DSCF5675.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "99e70c0812346a10ca776ffead8353b74c7a65a0",
+      "size": 1045806,
+      "lfs": {
+        "oid": "4c0e0302d0d7e95afd0f1e27f30b83549862d4d8b2ef09e71d216bfe8cdc9dc8",
+        "size": 1045806,
+        "pointerSize": 132
+      },
+      "xetHash": "d14cbb0ed607849ca7cad39131d2d975089b9d1dc1cd48af5f114417284d7643",
+      "path": "bonsai/images_2/DSCF5676.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d20c04d3c9571b2a27315b8b0195470cac074935",
+      "size": 1026544,
+      "lfs": {
+        "oid": "0c26d3f406fe69f4914be0377dd7ef30d11ddfad2e050b53fa72a0acd1d03b89",
+        "size": 1026544,
+        "pointerSize": 132
+      },
+      "xetHash": "cd9e8689e0f287ed1a903dcd91860c4bb5961b1d2f7981669efe69881d66ffff",
+      "path": "bonsai/images_2/DSCF5677.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2d2cc08deb81bd3121b256d7a46afe2b462ec34c",
+      "size": 1021618,
+      "lfs": {
+        "oid": "429f73297d1a650ade7c911399a173debb939e89edd66ceef773911d025670b0",
+        "size": 1021618,
+        "pointerSize": 132
+      },
+      "xetHash": "4645882d7b056ee0fe3d8f24df0921bd769efd7711bd82e2058611cc0fa3f3ba",
+      "path": "bonsai/images_2/DSCF5678.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "39a52fc200c9c432ffbeb994f98b28cc780e9604",
+      "size": 981548,
+      "lfs": {
+        "oid": "eacd7939968be533c08ce152fff5cde1814c8ecb47c0daa60600732f4333faa9",
+        "size": 981548,
+        "pointerSize": 131
+      },
+      "xetHash": "49aeecdb9e1f2fd231ea8f55d0472576e3f540f8ddad053b1d2a2884e33db4be",
+      "path": "bonsai/images_2/DSCF5679.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b17f6081856328853b51fe0dd9ff76fb08e21276",
+      "size": 982226,
+      "lfs": {
+        "oid": "681e51fac840af4c53806062b2cb668f6126920652be1c2f4a02127814ba22b6",
+        "size": 982226,
+        "pointerSize": 131
+      },
+      "xetHash": "c7459ae5cc0d92aa13dc0f9eba6d352af8768824056abdc74bf83afe76255321",
+      "path": "bonsai/images_2/DSCF5680.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "0745b08d7d2e56e7e993c7486861d4e58136ad73",
+      "size": 953056,
+      "lfs": {
+        "oid": "9f74817a4b749c344ed16e3c8aa9c98a818bc2f46eaa1c63f18e61666fb2ae25",
+        "size": 953056,
+        "pointerSize": 131
+      },
+      "xetHash": "11fb350e408959699a36714b23403a0d8ff37e499615433439052d8a63de62f2",
+      "path": "bonsai/images_2/DSCF5681.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a6cd87f972338eafe8f9a948513093f7b912f597",
+      "size": 942894,
+      "lfs": {
+        "oid": "f18d3aaa3606cd933272c9373dd43120ab906eb112fe4935ff552720cafee5b3",
+        "size": 942894,
+        "pointerSize": 131
+      },
+      "xetHash": "5194a99b87e44a5626f00edbb8a3b92001d64e3f7319fd4cdf531ef5b37cc91f",
+      "path": "bonsai/images_2/DSCF5682.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e3ca5933e0e8e2838ff8f5863b302ecba3627449",
+      "size": 937393,
+      "lfs": {
+        "oid": "ff27a5cf15ee62e2f89538076e97b798ca743594e0189ea3b81de85e53f71157",
+        "size": 937393,
+        "pointerSize": 131
+      },
+      "xetHash": "7c75a668d1016d73d4d4cbbcb54911ca546caecd45815d2aeee3dcd8121b92c7",
+      "path": "bonsai/images_2/DSCF5683.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "06d946de565f1b34e4ddfc222db853f82d6c5787",
+      "size": 911793,
+      "lfs": {
+        "oid": "a5d6b7a4bce452d68174d1000f9a799aae12e226be55a72de30fd4e5910ce236",
+        "size": 911793,
+        "pointerSize": 131
+      },
+      "xetHash": "2c358ecbafcb32accd6f67a6387cd745366c231429d59cb538dab9da58ebd5c3",
+      "path": "bonsai/images_2/DSCF5684.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "122b0e6a4fda5931a70f9f42e70da29898b5c688",
+      "size": 909631,
+      "lfs": {
+        "oid": "75f95055f519fe270cb1bd957dda68a3782dec255e7cd430b2c4bcbc27333d3f",
+        "size": 909631,
+        "pointerSize": 131
+      },
+      "xetHash": "d00f6e70fb9be1c1aaff80cdca5b37ca516bafd8d19d231e1eff9e759c0433cc",
+      "path": "bonsai/images_2/DSCF5685.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "88d2bfd1b2fbda5e073b090b862a262c3b057586",
+      "size": 891964,
+      "lfs": {
+        "oid": "578935f719f360fd59f1c54e807c529b727f334f0123ecd79eaa07cfbaef4bce",
+        "size": 891964,
+        "pointerSize": 131
+      },
+      "xetHash": "ca6baedae45fcc25641deb7292fd62456d1db17bc49d913a970f32753f65924f",
+      "path": "bonsai/images_2/DSCF5686.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bb399ed01d105b41bf21be20f9fe732d3f7595b4",
+      "size": 910084,
+      "lfs": {
+        "oid": "f37f1488b6f160fe1e35a85ec6045449552df1f6b40296ed32b9d15c967ff701",
+        "size": 910084,
+        "pointerSize": 131
+      },
+      "xetHash": "ab9f79a98b7fbe6612747df968692a9015a84c8b11aec3f47f2ea7eda2305942",
+      "path": "bonsai/images_2/DSCF5687.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e3bd497f243b8a2cd66c2aab54f0ceb219ac2984",
+      "size": 916293,
+      "lfs": {
+        "oid": "51fb8b0627ac24b189a2959c688f757bef6f3146d83df4dfc0afd5d12d9836eb",
+        "size": 916293,
+        "pointerSize": 131
+      },
+      "xetHash": "74dab1baf15589b9618343496515d476ca41f1f568bbe5e6efaa16989a5f11d6",
+      "path": "bonsai/images_2/DSCF5688.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "40fd55e03aba2627977f8fbbda0025d708028d77",
+      "size": 931101,
+      "lfs": {
+        "oid": "2570379fd4484d3504a428f0be2663b01e93044f0937c649597ef2d74f8c608d",
+        "size": 931101,
+        "pointerSize": 131
+      },
+      "xetHash": "0d4b6ae173ed44db32f48e0f6c911b9def08c330d91a00e0748ff1a612e7a78d",
+      "path": "bonsai/images_2/DSCF5689.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "db005bbd48557b34ab9cd2dc96aeacf4ea7bccc7",
+      "size": 939517,
+      "lfs": {
+        "oid": "8b996b915457d65c5a49440ad7e224b2b0adc8522b998200e193eb93f066219c",
+        "size": 939517,
+        "pointerSize": 131
+      },
+      "xetHash": "5064c60228147598d21c50a84853263416a7114cf09cee7eb829fe36130bd07b",
+      "path": "bonsai/images_2/DSCF5690.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "67d4a08b491dbdd174aa4beff61a9ea345722f0f",
+      "size": 973399,
+      "lfs": {
+        "oid": "8f9cb3ab46af49c655c3acee37825b9af6a8e269d57126255a1847cea1c9ded9",
+        "size": 973399,
+        "pointerSize": 131
+      },
+      "xetHash": "b46334cda6e970d18fa947ad75feab294abf6d1bb51df5d913bfd8c99ac90e9c",
+      "path": "bonsai/images_2/DSCF5691.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "104e948093e7108712c74aede082a6c2fa41fe19",
+      "size": 942412,
+      "lfs": {
+        "oid": "189d37a71fd323be966ae67c804bd80956ef8ecba42700cb68eafd85189f5f92",
+        "size": 942412,
+        "pointerSize": 131
+      },
+      "xetHash": "4d65dc9ad6edf16118de708893d61bc07bf11053678063efbda18ab1358a4d0d",
+      "path": "bonsai/images_2/DSCF5692.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a246e7e2ba7cd301a879d260b9e02888d7df93f7",
+      "size": 1004113,
+      "lfs": {
+        "oid": "1c1b2816028454a2ffba0e6cc0f721136a59486041f523e3b6162c961ba4e4ee",
+        "size": 1004113,
+        "pointerSize": 132
+      },
+      "xetHash": "59a0f90300451e1c84d547c02ff8b0938b396caced1f277792c1823abd4cbc64",
+      "path": "bonsai/images_2/DSCF5693.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "494f6b3243a00d72d59254cf3be108bd84de6406",
+      "size": 977717,
+      "lfs": {
+        "oid": "902a1e2536944a2819e2f0d456e348dd36ec98056bb5499b5970c5b9ebaf455a",
+        "size": 977717,
+        "pointerSize": 131
+      },
+      "xetHash": "63d81c0350c18e3bfcd2c4a1d5bb4faf8c2a80a7d0bbf69778e54ec6e2d1c21f",
+      "path": "bonsai/images_2/DSCF5694.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "78225a6ce8b8da5e0e16d13094ea0b7ac484e58d",
+      "size": 1020048,
+      "lfs": {
+        "oid": "fea37031735179a6109357e01b18e44794c6f437386ad77bd707015c503c6c19",
+        "size": 1020048,
+        "pointerSize": 132
+      },
+      "xetHash": "f4bac4dd11c00a1a13f9e1d0dc46410375ac318fb115a81331447fa1870011c8",
+      "path": "bonsai/images_2/DSCF5695.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f8cc87f0fc6c19a6051b6e3350ff8143f3c4bcb4",
+      "size": 997142,
+      "lfs": {
+        "oid": "aa135d52b3293b5f702c97bff3392c8386db703fbb7a3d6d55f27643856997fc",
+        "size": 997142,
+        "pointerSize": 131
+      },
+      "xetHash": "d929346b76c09a6e712082c8de0078c97b8c7a044f9f57d31c124946e461dc54",
+      "path": "bonsai/images_2/DSCF5696.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6bb25ca5932d67f3b78d7d297edb8cec51b495e0",
+      "size": 1026294,
+      "lfs": {
+        "oid": "2092ea82afa84f5c855337073d3d21fd09a193ee2aa16de03359f40862afe4bb",
+        "size": 1026294,
+        "pointerSize": 132
+      },
+      "xetHash": "53f5239afd3eb3aafce9531ec788b7f2d2205e595e4e941ca5815d7d31842ce4",
+      "path": "bonsai/images_2/DSCF5697.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4944520bc2f1d3ef08d52ac81c659456293a0d5c",
+      "size": 1000171,
+      "lfs": {
+        "oid": "d1dd9c5c569d9ac5267f72f2248f137ebe0c1b5470ac452b34858c1913250918",
+        "size": 1000171,
+        "pointerSize": 132
+      },
+      "xetHash": "647eb4ea8f9cdc0c93f803e1e81c489182f572ec3e3e3d96d82e0e0693a26577",
+      "path": "bonsai/images_2/DSCF5698.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bc908edc22fc7d76dfac0ad8fb469b1d7c9514d4",
+      "size": 1039909,
+      "lfs": {
+        "oid": "04a15fd4ba250323434176b693ace14a2c4514b5e1f0ae0217f3781d580ca988",
+        "size": 1039909,
+        "pointerSize": 132
+      },
+      "xetHash": "3ea7064d065413fff32229e27bffe01e3a91558900938bc4150aaf1510254c68",
+      "path": "bonsai/images_2/DSCF5699.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c19ff3c750406a2581e0a8f7f78d7abfad0a0022",
+      "size": 1024354,
+      "lfs": {
+        "oid": "fb8ca138e766aeed340174a458cf29b206ad43d49f959886140e1364c7113517",
+        "size": 1024354,
+        "pointerSize": 132
+      },
+      "xetHash": "05f5736afc42e97effab719fb417b26b76d970a0beb700eab3f70098d4236c0f",
+      "path": "bonsai/images_2/DSCF5700.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b8822f947fd8d1d7ae0f5490b39de8d77de538c8",
+      "size": 1030308,
+      "lfs": {
+        "oid": "9fc31b14eff64224b75e06674b0c6979ff8375d499a50d7841151403537f3cec",
+        "size": 1030308,
+        "pointerSize": 132
+      },
+      "xetHash": "8eff44d87fe258d870c5f83a22470a95cda0e5f44e75c3e65769a52e8c2d3ceb",
+      "path": "bonsai/images_2/DSCF5701.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1f5d128ced65e69e879510d28f8835e2a38b0e4e",
+      "size": 1037131,
+      "lfs": {
+        "oid": "bb3dc46fdcdf81a466136639031d115d7657f1fbdee6739b45d095a52692448d",
+        "size": 1037131,
+        "pointerSize": 132
+      },
+      "xetHash": "b93e4437c9bf24f61b2271a4432888fc6676fe841e316bd3b1a23d98fa487bc4",
+      "path": "bonsai/images_2/DSCF5702.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "44b63b57725fdc430ec0913a12f3dcae8e05d5ee",
+      "size": 1035756,
+      "lfs": {
+        "oid": "ef549a64b266a837839e38896b87118ad7bffa56c2f1f70756d5d9d87a127c38",
+        "size": 1035756,
+        "pointerSize": 132
+      },
+      "xetHash": "c1146f6342a6506266654eb1abe7350f47ff4944a0c27c21f3de392e5e6eedea",
+      "path": "bonsai/images_2/DSCF5703.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7a9a3fc9de41f719644c4eaa8cf0855d369711a6",
+      "size": 1005365,
+      "lfs": {
+        "oid": "7fbe00efce951c7dbd64089b7517e516684ac624348a5f5dafde940168221ad3",
+        "size": 1005365,
+        "pointerSize": 132
+      },
+      "xetHash": "5bf3dfba607eb820ecdbcc65566f711cc4074cd8a801bfb3f2089ec2aec77620",
+      "path": "bonsai/images_2/DSCF5704.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a243019dbbd6cda78a6040c50b4165b8604cd4f0",
+      "size": 1029976,
+      "lfs": {
+        "oid": "67735aed562c86408af227f994eb786e824ad815d8893e902bf9f364e8fffe51",
+        "size": 1029976,
+        "pointerSize": 132
+      },
+      "xetHash": "0529528f2b0c56c65696fde80d9f7abbaf2a8fba4a1c69ee6b3f13feb90b9e99",
+      "path": "bonsai/images_2/DSCF5705.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "33dfe8f17266cb219ec240e9555a138b5786280a",
+      "size": 977966,
+      "lfs": {
+        "oid": "cb371c94de4d812d645591b7916f37a696c2f116ecc37183397aaaa9b4b966a8",
+        "size": 977966,
+        "pointerSize": 131
+      },
+      "xetHash": "c88ebfbb5630faa004fef333862ac5847469711cf3822c40d78723248ba5ac05",
+      "path": "bonsai/images_2/DSCF5706.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "55bda9a29abd03ff3c963594e6f61f8601ac4caa",
+      "size": 995845,
+      "lfs": {
+        "oid": "6854bf0e45d31b29da789a369c0c668a516b2ad3da696b7c55ba0ca91a63f2b2",
+        "size": 995845,
+        "pointerSize": 131
+      },
+      "xetHash": "56337dc44193a3065465da75f2d8089d32a2cf691e75ee45e4c1ba5ccea110ec",
+      "path": "bonsai/images_2/DSCF5707.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1abe3a21054a0d1f51de7c352014a10a38232d08",
+      "size": 951228,
+      "lfs": {
+        "oid": "fdddd6d1b37a9875be99a6df760a34151aba87af883acb5459f1425d5cc390d8",
+        "size": 951228,
+        "pointerSize": 131
+      },
+      "xetHash": "eb3857796eb0390c908579cf66d22ffbc19e06462ec6e015031fc836cd4b87d9",
+      "path": "bonsai/images_2/DSCF5708.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "420820545f0adff7549a75885f6f7f4f4f5c431a",
+      "size": 985413,
+      "lfs": {
+        "oid": "c63377f3cf1204aa2243c697514620944445c405f2a9f33a4a588e5415d3e302",
+        "size": 985413,
+        "pointerSize": 131
+      },
+      "xetHash": "fd77a3d5aba9c0d8bd6209d2ab7585aafa920413fe03dd275f10bec16ef9428c",
+      "path": "bonsai/images_2/DSCF5709.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a829ce5c59439a103874bbc5fdab23269f9b3436",
+      "size": 972703,
+      "lfs": {
+        "oid": "876f2f82d2b998936f6eff9606b0350fc23a4ab3a8736a3e130c48a136610462",
+        "size": 972703,
+        "pointerSize": 131
+      },
+      "xetHash": "4c15ea9a36a9df30db0ce76de2676c9a62b7a71678440a710bd445757d7c1e68",
+      "path": "bonsai/images_2/DSCF5710.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "fbd9c4c35f7e4f854e877b3888617a92a46b0b88",
+      "size": 951152,
+      "lfs": {
+        "oid": "31dfde0289877d304ed3e890bf3b2c943f167a685e430c2cfa1574e4854abf82",
+        "size": 951152,
+        "pointerSize": 131
+      },
+      "xetHash": "e000eb8ad4e7c56434791b37ea8cfb97c8efa34ee8de5d85abf5d45e69e37d87",
+      "path": "bonsai/images_2/DSCF5711.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "63750e1561325a0f0d5465909d8aa12d2d2ac6d0",
+      "size": 919470,
+      "lfs": {
+        "oid": "cc6cf866092a9d0c049f92bb048d3a4ce5ea8c0e7ea69eb3448b42d0355fc727",
+        "size": 919470,
+        "pointerSize": 131
+      },
+      "xetHash": "7d03b2f2c77b6066c9ed006dbef9ca9f079a431974d8e2e9a2f3979bed1b5bd2",
+      "path": "bonsai/images_2/DSCF5712.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1f59dfaaaac230d2295c369a6c88c34da43039d1",
+      "size": 885126,
+      "lfs": {
+        "oid": "2aff5559f0d55a1166d3fa3c8255d624353fcc2abb79ea942c0a22b825e0cc2f",
+        "size": 885126,
+        "pointerSize": 131
+      },
+      "xetHash": "9babacb0ab2912829c7beb2aac1f6f3365bae8c8616205d52da6c37d4bc212a5",
+      "path": "bonsai/images_2/DSCF5713.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "aa297bfa2a9b3d769f025f1be050e0821f734b6b",
+      "size": 923909,
+      "lfs": {
+        "oid": "7caf7d034963d7dc3b1fee9dacc367308e4278cf894dede5bf904d3748392fd2",
+        "size": 923909,
+        "pointerSize": 131
+      },
+      "xetHash": "80ea6e177655348530e6978e7805869bd4887020282dbd3570983dd8c5a08f2b",
+      "path": "bonsai/images_2/DSCF5714.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "22f2a1fee29328e2d25827348ee7126bf897326a",
+      "size": 962137,
+      "lfs": {
+        "oid": "374eb04e938cc8cfdb55e1bc82d14d98e7f8468787248df36d675d2c4eb11764",
+        "size": 962137,
+        "pointerSize": 131
+      },
+      "xetHash": "ba5f10fd66dc31e933ffc87aa94b60249cd468159447927bf8a358a12bb1ddb6",
+      "path": "bonsai/images_2/DSCF5715.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "003f21fca14b05f99693462bffc0ca8f19d78992",
+      "size": 954207,
+      "lfs": {
+        "oid": "eaf21893f521c17c39bcd8d68988c1917e41d80f6f57d44768a8bd2a2445b3aa",
+        "size": 954207,
+        "pointerSize": 131
+      },
+      "xetHash": "c4c60867e22b63bd1e5bffdb41c2917bb07d6423d78fe578ee3f1387ae2acd36",
+      "path": "bonsai/images_2/DSCF5716.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "dd0ab9734df2f9831797394d8ed1cd073daf6038",
+      "size": 969059,
+      "lfs": {
+        "oid": "8703ae619b42d2d09057476b2d484fa6e412d22373e1be9da8485f1de6d45db4",
+        "size": 969059,
+        "pointerSize": 131
+      },
+      "xetHash": "5883c0a13e2bc05e7b34c7f8b15e694390f813d72c34ebe2cd6c251f352636b4",
+      "path": "bonsai/images_2/DSCF5717.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "99a727cfc02059392877a5284c6cfc648b8e544f",
+      "size": 999843,
+      "lfs": {
+        "oid": "37f0d32e4177e78f3c73aebf4cd18b866a9e6d621d3f6acf73becaa4801698e8",
+        "size": 999843,
+        "pointerSize": 131
+      },
+      "xetHash": "59cf6091d4540298234a3b68305c5955a45f65032c8376c232bd103891f4e289",
+      "path": "bonsai/images_2/DSCF5718.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "44614a7cb6fb31515a28e0a2c198c909f39cf9ac",
+      "size": 1010472,
+      "lfs": {
+        "oid": "a87f84afe6fbf61d676178f2714f4f7f8f8f0834bb1420c2b3eb077be0280e69",
+        "size": 1010472,
+        "pointerSize": 132
+      },
+      "xetHash": "891ab59d1dadd89027e0c9c8d3c34e6365ce594dd0ed60f567f2d8a5db051604",
+      "path": "bonsai/images_2/DSCF5719.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9fa52b793dfbb423730a2547e38c59638fc903d6",
+      "size": 1018038,
+      "lfs": {
+        "oid": "a9bd7b7152c0a6fd00a71de264ad2fd6af59e8d217f52be5b3bcf3c8eb54427b",
+        "size": 1018038,
+        "pointerSize": 132
+      },
+      "xetHash": "40558d46b15bf6cdeafb51d9a401c2e9e3fa5083fe8f11f94c7fd82fcfba5665",
+      "path": "bonsai/images_2/DSCF5720.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f8bce01c1c45adf03b4b13b557da647fa0b3276c",
+      "size": 1031742,
+      "lfs": {
+        "oid": "25027eb89e389fa8c39cf0182694fc769bd9517144a728fd35c89aae2c47eeef",
+        "size": 1031742,
+        "pointerSize": 132
+      },
+      "xetHash": "161638e23fcaba07cb00c2696ca74a92e8683188e0fd15f76a32ec12f9dbd999",
+      "path": "bonsai/images_2/DSCF5721.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9cf5a593c40be255886c44e2d5ef56b49e6572ec",
+      "size": 1002014,
+      "lfs": {
+        "oid": "6b7f3da2e7ad5ed59c82889e5de6ae634d3167966344e88d20e73ac40d023c5a",
+        "size": 1002014,
+        "pointerSize": 132
+      },
+      "xetHash": "bd54de5d74cf82795ec6badf22f779071a332a6a2a888457e84c35fee9288c10",
+      "path": "bonsai/images_2/DSCF5722.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7c9b4f0f5402191c8656abb775bdd1006ae82460",
+      "size": 1013101,
+      "lfs": {
+        "oid": "103c918ef6934c209937882e72decb7ee09b6bcc4288f1f0a13722a324f2992f",
+        "size": 1013101,
+        "pointerSize": 132
+      },
+      "xetHash": "c362f8510f9f64da10423614406d2ff66e8e9f88bd458eddf96f6800ebe6d93a",
+      "path": "bonsai/images_2/DSCF5723.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a8face383d282fdd6fc2c61ec5dc6fffc41c6223",
+      "size": 1019309,
+      "lfs": {
+        "oid": "6bb147dcb98b61fc5e3ff21320dfca8471831cabf07b30ee4e3db83e7d549ace",
+        "size": 1019309,
+        "pointerSize": 132
+      },
+      "xetHash": "78690e3e201cc42ece0a95c868c9c7e97e1ff26b2f93b276e44239f0c7eab8a9",
+      "path": "bonsai/images_2/DSCF5724.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bdc52742d391fecd4d569c5d623c0767232f41ee",
+      "size": 967340,
+      "lfs": {
+        "oid": "bb6db86b8a658067e003aca84f1b860417bf6a032dcc9548f46ad9e90a050aac",
+        "size": 967340,
+        "pointerSize": 131
+      },
+      "xetHash": "dd1288f5d3ca0b16ad05ed7628559c73a43ab212a2365b79d6d49ad1c489b93c",
+      "path": "bonsai/images_2/DSCF5725.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "341c3a748589f7d7521a9fa64edf39db679944f6",
+      "size": 990664,
+      "lfs": {
+        "oid": "b1d3065a481076f5160b6d84a376bd7d946e059d49e1ab314c967e39f552f713",
+        "size": 990664,
+        "pointerSize": 131
+      },
+      "xetHash": "eb1675448946928c1a9f6c20cc483d6bc1c7c43ec4262ee51cb18b54b84e7b50",
+      "path": "bonsai/images_2/DSCF5726.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9e2897500097a8c1ba41df9e3aac1bb33ecb1b62",
+      "size": 997966,
+      "lfs": {
+        "oid": "efabe73572fed38bad5f3aba8054bcdc43845db2a26471150456f4a240a77409",
+        "size": 997966,
+        "pointerSize": 131
+      },
+      "xetHash": "2cc3d00976c38467f88d5b5cf2c57620fc6ae3644645ff7e2ada99fd28b5be5b",
+      "path": "bonsai/images_2/DSCF5727.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3cae0be0e9c5388342bdc59dec2ba68a92330459",
+      "size": 988692,
+      "lfs": {
+        "oid": "51aa3d02f4924eb8239305730df9dfbe722c1e78da55591a6beac97963000ae4",
+        "size": 988692,
+        "pointerSize": 131
+      },
+      "xetHash": "5db39f3bfc54af6a1dfcf19c84be2c8b0e1d08dbadd9b3e8537b6c3c07701e3c",
+      "path": "bonsai/images_2/DSCF5728.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "48169fb4cb9bbd57d4dd66b8eeeda882ec66be02",
+      "size": 990012,
+      "lfs": {
+        "oid": "a42ac9208a126fd7638d4fd076472b784f301c2d23190b90d6237916ef6df6a1",
+        "size": 990012,
+        "pointerSize": 131
+      },
+      "xetHash": "489753ece70e13cdf5b6184a38e8221ec250540ab84c7356eccfb67033949fd6",
+      "path": "bonsai/images_2/DSCF5729.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7a7de75a3f8b1956d987d78a92c6ff178d479e29",
+      "size": 1008320,
+      "lfs": {
+        "oid": "4792b44238e325c9168f2291149c114982a98cd28314e61646861ac777769865",
+        "size": 1008320,
+        "pointerSize": 132
+      },
+      "xetHash": "a2e6ea10c085409ed255a20e38557ee0e9a0b5d76c7d60fde9cc9743179d58c7",
+      "path": "bonsai/images_2/DSCF5730.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2bcb83356cb36dd001a73fd5ffecc8c6391d299e",
+      "size": 979283,
+      "lfs": {
+        "oid": "777a8c16a43a73a2415cfd7906bfdf2c5b0db1a5f0f30967e3bdf99e343ac4a5",
+        "size": 979283,
+        "pointerSize": 131
+      },
+      "xetHash": "0ec16669b518319061cd413fe4d85ef58d6a19cf530d86d0fb8cac5f884c156d",
+      "path": "bonsai/images_2/DSCF5731.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "acab0c658ce1aa7e046f3aa9f4111ad46a6cdb0e",
+      "size": 994279,
+      "lfs": {
+        "oid": "1a2a9a3a67367e2df6427d5949c24ada0e5370d7f0fdcd9be96239dd9cfc0121",
+        "size": 994279,
+        "pointerSize": 131
+      },
+      "xetHash": "11f059d43a785ab57118dc48520f27c5f1b84fafee7770e210211e42a1124a6b",
+      "path": "bonsai/images_2/DSCF5732.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f6d797befcbcd93e5c41ab651b6024fc4572ee7d",
+      "size": 978970,
+      "lfs": {
+        "oid": "f3731cf100dea7302f94d4f8aed8a584d40d1cc6d81dab13177c503f35f0959e",
+        "size": 978970,
+        "pointerSize": 131
+      },
+      "xetHash": "b05c1bb34ade105ea9844fb5e21f4b0eb1d264641835d21abe6e90b0e022ae68",
+      "path": "bonsai/images_2/DSCF5733.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bb318b445f6898b28282b06fd67249d6c6296e61",
+      "size": 985898,
+      "lfs": {
+        "oid": "92cdc8c0b1687b974507791b558e67f6f595eb8303bb0307e13b02cae1f2f6b5",
+        "size": 985898,
+        "pointerSize": 131
+      },
+      "xetHash": "a92abde987bf41385ba92ec8a2cfd67085dd9b06c02269fcb98b74307895d755",
+      "path": "bonsai/images_2/DSCF5734.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c4aa758b130715a2d07da71724c96dcf70c95a0a",
+      "size": 988570,
+      "lfs": {
+        "oid": "b186cf6e605a60ff189ef4b0cf950ae9576f56e991258486a44188f638001006",
+        "size": 988570,
+        "pointerSize": 131
+      },
+      "xetHash": "12449fc2dd8ee534f9579fd897477337c33ad5062d3a96b1fc856e1c007600bc",
+      "path": "bonsai/images_2/DSCF5735.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f6128c31ec09187ac6e7be5c1273a114a1816cf2",
+      "size": 968273,
+      "lfs": {
+        "oid": "7d3f7dcbb3893cd4b202ea914c89d462a08107f797002a1660f270ea663ca44e",
+        "size": 968273,
+        "pointerSize": 131
+      },
+      "xetHash": "3fb832a1aa946351244e4ebd43462f524d2d289335a5049ebd9e6c12e11f7dcf",
+      "path": "bonsai/images_2/DSCF5736.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "0a1d49dba4d65409c6940773744becc2c0fedd6d",
+      "size": 955556,
+      "lfs": {
+        "oid": "a37d134e2ffbeb2a9911512ab74a12ba3226491a7724e5a987a4bb80b362c35d",
+        "size": 955556,
+        "pointerSize": 131
+      },
+      "xetHash": "67bc39511e0ccd36397c1cdbcb3dc429effa226d6825cb1ea7a69d72fb23cb9b",
+      "path": "bonsai/images_2/DSCF5737.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6024274f625265402a235ebfdbc9e4f9bd991525",
+      "size": 941772,
+      "lfs": {
+        "oid": "cd84478e3e3ea9ecb5c6a68623b48a546e35af98ea6422432307e9d977f9ff74",
+        "size": 941772,
+        "pointerSize": 131
+      },
+      "xetHash": "7a75df1aa28caee06abb1694309b7388d548fc45fb5256cef200586c1eea2a09",
+      "path": "bonsai/images_2/DSCF5738.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4dab68fa2a92da611eb71e83dd1fbaaf2d99c879",
+      "size": 931362,
+      "lfs": {
+        "oid": "972ceee01c0a99835fe9a6556092b1fc6e186f738321375469f15504612ab3e1",
+        "size": 931362,
+        "pointerSize": 131
+      },
+      "xetHash": "175a28d0274c4e5772982c922b38813074e703044dd9f57ffe97c202cfa3f551",
+      "path": "bonsai/images_2/DSCF5739.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3891c0f0e9d625b9672e6b245393a6561452d348",
+      "size": 932970,
+      "lfs": {
+        "oid": "82b9ed1e1736b6b50ed6290d045102fffec38322715ee99756618f6686ec2abd",
+        "size": 932970,
+        "pointerSize": 131
+      },
+      "xetHash": "208a94d063136aa778a2e8c0d8b0025f867f4287db0d74951eb7c9f4c0a55338",
+      "path": "bonsai/images_2/DSCF5740.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4e3706db0c9be361d84ff9c0b1db6bceab1156e1",
+      "size": 945388,
+      "lfs": {
+        "oid": "7f82dfb85ae149c71457f4576648d5986f2364bc2662c18e8bf7a97e31c47e7f",
+        "size": 945388,
+        "pointerSize": 131
+      },
+      "xetHash": "c84b1f9d3c5a73b37ef741e3e5d2c5839e95d530bbba4884a37d5af0064b698f",
+      "path": "bonsai/images_2/DSCF5741.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ec867d0099c95754e348207cef402f1d6e38bb5d",
+      "size": 947939,
+      "lfs": {
+        "oid": "54aaf3d7de2a77279a5333ee7e82b0446e975220a18c468750e333fad25f6358",
+        "size": 947939,
+        "pointerSize": 131
+      },
+      "xetHash": "2f2f9ca18e647feb36d5787d5a69bce63f16a09f959a1544c935d3c71c2ad27f",
+      "path": "bonsai/images_2/DSCF5742.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "eec1c73959b9540dce60cc6aa0d45add4d38e615",
+      "size": 969529,
+      "lfs": {
+        "oid": "8277f0b853e5cea55711641ba4f2b86494d92f415a367207c842da16433b46ee",
+        "size": 969529,
+        "pointerSize": 131
+      },
+      "xetHash": "b92ea17378ef08b4ce18fbb4f921ddbcc8fbc0e12b4a56df17cbfc2220406738",
+      "path": "bonsai/images_2/DSCF5743.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "af4dfcc8d368e956277231fade9621b96a44cfed",
+      "size": 987109,
+      "lfs": {
+        "oid": "04f8d6325457f9fd5d496d711360304403137eb1004ddf05e80e7cc772f0f59b",
+        "size": 987109,
+        "pointerSize": 131
+      },
+      "xetHash": "3b1ce33a314501b462a25a4569985fb37545a3a37748b7109ef61d5c5e5ea3a5",
+      "path": "bonsai/images_2/DSCF5744.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "53057ab08971b60f4582a4f649537880132934a0",
+      "size": 930261,
+      "lfs": {
+        "oid": "3a79f82da88ad61f2041e1546dd4e73135ae9e49d0456619e03cd8473379758e",
+        "size": 930261,
+        "pointerSize": 131
+      },
+      "xetHash": "70543cada766b7f24d8e4c1718ffb0af64486167a34ee40bdd559512c0f5b0d6",
+      "path": "bonsai/images_2/DSCF5745.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3191f5ef94f23e1f2d12b8873d68eb91e0783171",
+      "size": 1030331,
+      "lfs": {
+        "oid": "1ec9306ad1ba026de5c644cf203bf4bde9c93730ae0e75535cbfea21a5a23ad7",
+        "size": 1030331,
+        "pointerSize": 132
+      },
+      "xetHash": "3af3b570686b8eda8ecc432b684ea3279d12feefc9e12fd38315668a242f94d2",
+      "path": "bonsai/images_2/DSCF5746.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bdfde713e0e5dcbab75fefa68495129c68042bdc",
+      "size": 1042252,
+      "lfs": {
+        "oid": "c9614b77cbd10022c94ea2d0749eacafc39881b3b5827ddc619352593f58c191",
+        "size": 1042252,
+        "pointerSize": 132
+      },
+      "xetHash": "4f78493b058bb71011078362dccaf83dfaf7f75ad433ecdb3ab01ec3db980e81",
+      "path": "bonsai/images_2/DSCF5747.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e7f80acf823ea58e9e3fc9f9db21dabd7109b7e8",
+      "size": 1008651,
+      "lfs": {
+        "oid": "f921e13c8ccaba43023984c7179c9cf0a7635b93b228ee75e6170a5cba6996c1",
+        "size": 1008651,
+        "pointerSize": 132
+      },
+      "xetHash": "b36559349a9e592b5a876be6eebf1b5486f028ee61284704182074d5caa00fb9",
+      "path": "bonsai/images_2/DSCF5748.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5ba7fea67d2056dc052a69fdb794cd7f232469b3",
+      "size": 1014432,
+      "lfs": {
+        "oid": "50f66360d32dc8f7c7ad8dbb9768d157a30d7dbefdd97c17d249715b9ed5830c",
+        "size": 1014432,
+        "pointerSize": 132
+      },
+      "xetHash": "9f17d92135c1ae9e443c3c62cfc68d4becdb1890a06da7a0d92ddb6608e1de11",
+      "path": "bonsai/images_2/DSCF5749.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "469e83dd6fae8e83ea57e834e6c63a3fc05d58a8",
+      "size": 1000000,
+      "lfs": {
+        "oid": "519a051316dd9ec9199ad97a5abd8a70d564a06a32528b48cd64ce8530274662",
+        "size": 1000000,
+        "pointerSize": 132
+      },
+      "xetHash": "8a164ca7d2d07adb8bd1720e1a32e75f1a66b44601102bca4600c70d0d47a929",
+      "path": "bonsai/images_2/DSCF5750.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7e6e0379ff843e91641aa840c003eaa9cbab7d60",
+      "size": 981968,
+      "lfs": {
+        "oid": "18a23d1a897f757fee33d76e1cbe65ab632c581141abbc1c4aaff4e2641f7bf2",
+        "size": 981968,
+        "pointerSize": 131
+      },
+      "xetHash": "569217a8a05a529879c045f7e779039989d4de7dc5394e08e5b2b124e6e39b3a",
+      "path": "bonsai/images_2/DSCF5751.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ece6fe70d04af8435c30ae949f5dbb8fc6fd063a",
+      "size": 940091,
+      "lfs": {
+        "oid": "176200d54a6b065537ded069507d6cfa5efed5ea6f33f83ac51db288300f0e58",
+        "size": 940091,
+        "pointerSize": 131
+      },
+      "xetHash": "76045a0decc4d04eda1a36f7c89384955d38db85cb60aabd468c81ebfbd52485",
+      "path": "bonsai/images_2/DSCF5752.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5d4b1c51133ee6c03c5d8422511b83c77fb82190",
+      "size": 967406,
+      "lfs": {
+        "oid": "17969576a29cd7cf137743f6c03256c0a3de7323528878702db3427a07e7e3c6",
+        "size": 967406,
+        "pointerSize": 131
+      },
+      "xetHash": "9ed8264732532e46eeb3fa21d39b3b18922a088865c4bd7c3ae0d30ce7aa910d",
+      "path": "bonsai/images_2/DSCF5753.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bdf748a5d4371cf1b3b0c10a00662bc572ef4b8e",
+      "size": 967176,
+      "lfs": {
+        "oid": "6a487397efba3cf58320b400a60b42a688fa50af0c3d36acfec17fe0a682143f",
+        "size": 967176,
+        "pointerSize": 131
+      },
+      "xetHash": "e6cd350016ae8edabe2c59df6e6321f3e2ecc772db9727750b9e85ce863ade1c",
+      "path": "bonsai/images_2/DSCF5754.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6c2750d7edc5f90b147a365f5d3350a7ae9e321f",
+      "size": 938104,
+      "lfs": {
+        "oid": "5bca09503f4d67638bb20eaf3de34cca7ffb5b5ca70deb362323ccceb785135a",
+        "size": 938104,
+        "pointerSize": 131
+      },
+      "xetHash": "d6f4ed04931ff6e1e8ec869a41daf3271d120c0c912687093f098cdc9d2484d4",
+      "path": "bonsai/images_2/DSCF5755.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6f0dedee71a83a908754f4f8390b0814fc058e66",
+      "size": 925927,
+      "lfs": {
+        "oid": "70061135ec90a6e2788a9278fb0c54f0c99b725dc25de1046762b533fbc1b8c4",
+        "size": 925927,
+        "pointerSize": 131
+      },
+      "xetHash": "3358fde94024ad2cbc8e3f1717337655b1dc0d423ff9bf044f463b9444e17c4d",
+      "path": "bonsai/images_2/DSCF5756.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ac60eb6d429378fc26c5b569f3adeb148e63d6cb",
+      "size": 894492,
+      "lfs": {
+        "oid": "f5d1109287a9e609381d06a0dc37ffc600e806bd92f1726ad32de96f8bad2f80",
+        "size": 894492,
+        "pointerSize": 131
+      },
+      "xetHash": "a6ddfd38233a75ad67caf66a4f31bb13072b84bc5187061f90c5c3c6a32cff7b",
+      "path": "bonsai/images_2/DSCF5757.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6100d8eddb6d4aa38c5da63c44fd96ca4a455f81",
+      "size": 915601,
+      "lfs": {
+        "oid": "69bed2fb22ac705c72795a25986aecff00d36b611f3e5ce89f1406fffbb2dc57",
+        "size": 915601,
+        "pointerSize": 131
+      },
+      "xetHash": "30058483f0189d67a6f210af0451fe71fb173740612fdaec9aac6da1a03dcd31",
+      "path": "bonsai/images_2/DSCF5758.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "49f03bb86a0b06a374506464bbb088c384c18919",
+      "size": 912349,
+      "lfs": {
+        "oid": "cc6ba4f4258a39eddb1c64d5e910ca596be1794170c20285e0f06712a211495c",
+        "size": 912349,
+        "pointerSize": 131
+      },
+      "xetHash": "09ea9d8d550f3028b68d8050f605851b4c6a4c3c69cba93693acc46f16954fd7",
+      "path": "bonsai/images_2/DSCF5759.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "17e2514a7eb55d2fed1922896a44fce301ae7dcd",
+      "size": 905072,
+      "lfs": {
+        "oid": "81dff826438d6d26c75e96695dc138e149e403ffe5336ddfdb4c922d0be67cf8",
+        "size": 905072,
+        "pointerSize": 131
+      },
+      "xetHash": "cb5871aa89427f972ebae0fcfafb06095d62cd08e5f046b00f5689babe34f100",
+      "path": "bonsai/images_2/DSCF5760.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "54d968e2e1fd4f3f83b09aa898fa27828097840d",
+      "size": 882363,
+      "lfs": {
+        "oid": "afebd430b4a37016865c82c6215a4534c6c0f84a9719ba3c50bcf7e1660f7e20",
+        "size": 882363,
+        "pointerSize": 131
+      },
+      "xetHash": "73849c6a95cb5671fe9addaa21ba07cc1a300984b456a4874c241975bc7ba9fe",
+      "path": "bonsai/images_2/DSCF5761.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "83997966bd9084a4609e1f3c4028b5f7394084d1",
+      "size": 877075,
+      "lfs": {
+        "oid": "bcbb6feee1ae3c06fd364caef6c3cb8d111e43e4e889013434507b75ad8e6324",
+        "size": 877075,
+        "pointerSize": 131
+      },
+      "xetHash": "a549f929fc06c4bfb2b87f9af123245285a8aeae71ab332827503c2457c6607e",
+      "path": "bonsai/images_2/DSCF5762.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "fc95ef43bcacb0349471d01d4c7dce9ed521c256",
+      "size": 879487,
+      "lfs": {
+        "oid": "a3828d23b96253b1067a16a3fec63b2b175b29a5e1ad6fd904304650c189de76",
+        "size": 879487,
+        "pointerSize": 131
+      },
+      "xetHash": "0b3c54a5694a4e4f79160aa9f059c0f420f1054ffe9e293af26f727378a283d8",
+      "path": "bonsai/images_2/DSCF5763.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f53c925a92e479808a797a5a34209f5955a38487",
+      "size": 850659,
+      "lfs": {
+        "oid": "447752f2d1eb17bae132e18274c886e00af3ad9253cf2fa880124e250b0882a3",
+        "size": 850659,
+        "pointerSize": 131
+      },
+      "xetHash": "79c4acf2974f748425e48ef8e141034362ad76bc37625e7d5d469d091348125e",
+      "path": "bonsai/images_2/DSCF5764.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "fe66adee34f703ec29c5aa1fa7dffd9f135538c3",
+      "size": 863604,
+      "lfs": {
+        "oid": "4a89463c5b924e59c4c90788d02309ef1f54854372ff1558009b6e694a921788",
+        "size": 863604,
+        "pointerSize": 131
+      },
+      "xetHash": "66896897d74ed857071a43b4c3d01b2ca034b8a6c9fb039f9d70bcc7481948bf",
+      "path": "bonsai/images_2/DSCF5765.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b31c03e60a84375a59da235a519af417d4a30284",
+      "size": 874825,
+      "lfs": {
+        "oid": "b4e2428468d1fc519a1dd5841c36c653a01546af5ecae7fa1a27c7b12b50d711",
+        "size": 874825,
+        "pointerSize": 131
+      },
+      "xetHash": "221a57095f4c9668cd16e24ef8364d4ee560f0b738a5d088e98d6563280b6aae",
+      "path": "bonsai/images_2/DSCF5766.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "15f8877b4221fc9209017c77a412ac3f16c02f74",
+      "size": 885000,
+      "lfs": {
+        "oid": "a0de827907fbc3b3e933aad647d4965d11e2b69f7689c6820075e00cf13ddf77",
+        "size": 885000,
+        "pointerSize": 131
+      },
+      "xetHash": "ac2027f38f2479bb02eb6b31aab47e55a17501ccc20afbbc8bef28fb947040f8",
+      "path": "bonsai/images_2/DSCF5767.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "fbcd58857572be6dc3aefeb05cba2ceb542914c3",
+      "size": 898076,
+      "lfs": {
+        "oid": "547c7d4ecef8487a58602b211093629dd1ea1dbdedba68642328f194949e1795",
+        "size": 898076,
+        "pointerSize": 131
+      },
+      "xetHash": "626e554abee2ae6be07292d5e52a07f6aa829c57447e0a429c3411f76fe90d67",
+      "path": "bonsai/images_2/DSCF5768.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7a1c23dffc445e658c1b5f0c9a98f465883ba052",
+      "size": 911507,
+      "lfs": {
+        "oid": "625617554c2cbd58f0cb96a94d88c15efc1f94fc1312ed54c2f5ea833cb92a56",
+        "size": 911507,
+        "pointerSize": 131
+      },
+      "xetHash": "6164da2a479f5bb34a70d65ba01a98df1bc5482a514bff28e55dffe5025f7aa9",
+      "path": "bonsai/images_2/DSCF5769.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b8babc5dae91d29c324feb1e71e366442c90ed3a",
+      "size": 919531,
+      "lfs": {
+        "oid": "2334646d51fd2334b6ac8d7c51d756ad94ac0945a0f7b954286b2745c9d5906a",
+        "size": 919531,
+        "pointerSize": 131
+      },
+      "xetHash": "5e2e6f883d37f7d24d1fc2778ab627b04924556e716e6b61d31c360783652ba8",
+      "path": "bonsai/images_2/DSCF5770.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e0dde3af67e6882ff83932d53c98ce52e8fab08b",
+      "size": 927455,
+      "lfs": {
+        "oid": "9bbda4f888f1e51b00199c0e27ea707733c35bdc80012d729e531a5fd809c424",
+        "size": 927455,
+        "pointerSize": 131
+      },
+      "xetHash": "f399ea6d280ead982440420a21b4177f9d848df60bc8b3b5b5ff86637cf8adb6",
+      "path": "bonsai/images_2/DSCF5771.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "02ad99f5ff3f2203c20a57b3208100080cdae584",
+      "size": 942076,
+      "lfs": {
+        "oid": "3deed336d4de64a579725868863eac1152de811d7787b289a10174b0c6d8a6e7",
+        "size": 942076,
+        "pointerSize": 131
+      },
+      "xetHash": "f1a651f102db941f58679f0683c950db6e63c27e0aab24c6cbb627bbd98e2a9a",
+      "path": "bonsai/images_2/DSCF5772.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "31457c17bc5c52f2082f6eb711ff136de88782bf",
+      "size": 920390,
+      "lfs": {
+        "oid": "6b3af60ea85caa70062d57cf4c8772c50ca58e7ad00609d15b7c12c322bc0189",
+        "size": 920390,
+        "pointerSize": 131
+      },
+      "xetHash": "585c8a45776b2082d5138e122579bb08fe0b6474f9c9d1b3a8fb7c0a69a1d95c",
+      "path": "bonsai/images_2/DSCF5773.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "91ea6bc0fc9923496741b73ef20a13354ebf9522",
+      "size": 918952,
+      "lfs": {
+        "oid": "7cf530b4042117737c5df1a7a4e314f1b7366e6ccf3f80fedf9865eb12693827",
+        "size": 918952,
+        "pointerSize": 131
+      },
+      "xetHash": "e4a56425c374f9a98c43890dde73095348df431357dcc357ef4eeb8a76f2df57",
+      "path": "bonsai/images_2/DSCF5774.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e4b76441bb6903cb9052d582d302528793d95483",
+      "size": 922215,
+      "lfs": {
+        "oid": "930e2c1d57bed527a00c17701206798cceb9ce339ca84a542d62c9dcce39ccfd",
+        "size": 922215,
+        "pointerSize": 131
+      },
+      "xetHash": "6423813c0de204710dd7dfb7c03e30d31b876a0c74f34aeb29bb4b8574c6be13",
+      "path": "bonsai/images_2/DSCF5775.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a79e6635b935958f059a7fdbfb739a7b3f15b26f",
+      "size": 909055,
+      "lfs": {
+        "oid": "f3f9c3e8e34a33d67bccd8239c127c31454001f3a9e25f7156fa2205646a0dcf",
+        "size": 909055,
+        "pointerSize": 131
+      },
+      "xetHash": "39db608d31c2696b1ade65ac00a705a0671a4ca78980669fb5593de9e688dae1",
+      "path": "bonsai/images_2/DSCF5776.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "8ec49a1bac42f8cd209d844377a386a817bb5b21",
+      "size": 914823,
+      "lfs": {
+        "oid": "d26383341cb6bc0a31df2eeb05779034a17d1573eed4833559171dc33c3e8f77",
+        "size": 914823,
+        "pointerSize": 131
+      },
+      "xetHash": "c1c137f6cdb34fc81d4823353a8ead20989c404a523df8e750a30708a80c19ca",
+      "path": "bonsai/images_2/DSCF5777.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ae58cea61a80e15c04749fe2ca89526fc99717da",
+      "size": 907734,
+      "lfs": {
+        "oid": "85ae96cbeaa2edc6107f0e7acc872a0535f1ec48e2dcfd2a9d92f5b7aba6d2d9",
+        "size": 907734,
+        "pointerSize": 131
+      },
+      "xetHash": "af59faf20fc62f6944ee7e38f029788cbcca6958e73fc1af6b32c1c9976a5cb4",
+      "path": "bonsai/images_2/DSCF5778.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "af1617d00ea4f525ff60c23f7d38f82b597735dc",
+      "size": 922252,
+      "lfs": {
+        "oid": "8c41a29166d5a2ce2cd3d81f2e2cd01e69e24951819dbe30b9d26aeb6df5e4d0",
+        "size": 922252,
+        "pointerSize": 131
+      },
+      "xetHash": "283ebe6ae57f3d32a0fd644b91582f2a12ea7e5c1897847544b458c2dca1d9aa",
+      "path": "bonsai/images_2/DSCF5779.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f28f8818baff65c064ac92bec20164fed607e427",
+      "size": 930768,
+      "lfs": {
+        "oid": "f945b42c8a5744a9ba9f8625395a4e7ff3b327afb6b6c8f96f64747b55a25a21",
+        "size": 930768,
+        "pointerSize": 131
+      },
+      "xetHash": "fa19c81c6cc11efbee9b019ef3d0c0b0318286ca9e2bee786a5a4e8ba18228e1",
+      "path": "bonsai/images_2/DSCF5780.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "99b8b5a574db93ff7c6d953e269391f324f96695",
+      "size": 921198,
+      "lfs": {
+        "oid": "210cc844f811d0aa0128762afbd6228270bb398814360e6677f7f7bc12885983",
+        "size": 921198,
+        "pointerSize": 131
+      },
+      "xetHash": "a6f7414fb3ff81cf9dc1f3ecd6cfe62de77ae3913fb63cdfd42fd67b54d481c0",
+      "path": "bonsai/images_2/DSCF5781.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "f1cb1631c271406d998df873358a40952f1a7c43",
+      "size": 904048,
+      "lfs": {
+        "oid": "7230577b07162d0cc1d066c5e2a98139a27d4e097b729dd0084335f249f05150",
+        "size": 904048,
+        "pointerSize": 131
+      },
+      "xetHash": "7518f4e0d553d80d4623351021c197c93e878c120fd84e85bc663e78e77d55fe",
+      "path": "bonsai/images_2/DSCF5782.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e35920f4507fa647d6e0f5ab5911dadfaa90bd8a",
+      "size": 891243,
+      "lfs": {
+        "oid": "6cd8d3ac024f834c107bf091d31e150f15b00b94b85459572abc73515d4f36e0",
+        "size": 891243,
+        "pointerSize": 131
+      },
+      "xetHash": "ecef863590a0fd7ffe5dfeb88105ab3b2ff8e73a86629e1e4ad8a657e765c3a8",
+      "path": "bonsai/images_2/DSCF5783.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "e7bcbe5099644c83383f3ada664372e5d5bef540",
+      "size": 836712,
+      "lfs": {
+        "oid": "e111fdeef079f156c7e8b4c1541d12bd185b6f904d45d3f2a08618fff6bae6b8",
+        "size": 836712,
+        "pointerSize": 131
+      },
+      "xetHash": "57c1140ba1faa1dd7d48e2d0687b1b8067235c9680ab053d554124d89936c211",
+      "path": "bonsai/images_2/DSCF5784.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "af5fbd3cdfa87ff10fb3426ff5c37b827f525821",
+      "size": 868633,
+      "lfs": {
+        "oid": "f5a9f4de95895f26d15c0936717bf6d81739b34441e8b6246020c3e2d1c41c04",
+        "size": 868633,
+        "pointerSize": 131
+      },
+      "xetHash": "ae373b480eb49ea8bd1f96e1ec6366dbee530b54af7d4960a97a113d74bc252d",
+      "path": "bonsai/images_2/DSCF5785.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4dfb036cd51f5369c071b3a9c7fb030ae1917a45",
+      "size": 872950,
+      "lfs": {
+        "oid": "993851a11c6fe0d86e9fc29288363e7661cc7580784b3e716bec0ffb84cf44f1",
+        "size": 872950,
+        "pointerSize": 131
+      },
+      "xetHash": "ce0c669547d3b4b1dac40de546510ab765dcee0e6b55bcf601081dc31cb0c3fa",
+      "path": "bonsai/images_2/DSCF5786.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "51d11897ac6392dc2ecaab25229cd2a4b6c85921",
+      "size": 883140,
+      "lfs": {
+        "oid": "c0b1f413c8c188251095fede74e85b213c7907d0abc52f34dca45aec98b9d262",
+        "size": 883140,
+        "pointerSize": 131
+      },
+      "xetHash": "e45db463edb75c43396f0e19b42f64f0da239f63b1bdd4364f2533d89677e09b",
+      "path": "bonsai/images_2/DSCF5787.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "da5ab63850bb1bf8a751484319e26a3c8354bd51",
+      "size": 886165,
+      "lfs": {
+        "oid": "0159020c771305bf3482fab335bdd5521f5542f05f00bafeca4d235a1960e02f",
+        "size": 886165,
+        "pointerSize": 131
+      },
+      "xetHash": "490a4304d965ccf14dc858a24471cc6e28067b20bee2adaa13e0a95719e77116",
+      "path": "bonsai/images_2/DSCF5788.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7867053d5c144726279bf767268a424b785dc1b1",
+      "size": 854997,
+      "lfs": {
+        "oid": "7b20bfcaa815c15506ed154cb876dbf831d3b8081ef43303374918ed971b88ad",
+        "size": 854997,
+        "pointerSize": 131
+      },
+      "xetHash": "4b26c6912c59c4b74a4ce9f8f36618962eddc2f3771d4a26fe52ceace27df80c",
+      "path": "bonsai/images_2/DSCF5789.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5605e7e97ffea9e0b8d98984fa0c5a5579e75811",
+      "size": 888605,
+      "lfs": {
+        "oid": "f13e3c53eb87137220b14a0ca947a2e3e4118c763da4d5f0e36cd415e857c2f4",
+        "size": 888605,
+        "pointerSize": 131
+      },
+      "xetHash": "632e14174b0fc0366a53520b25a822e5ed695ef615b67edcf5742104f0fef682",
+      "path": "bonsai/images_2/DSCF5790.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d2db2b4681d42ab663c2751baf41e41dd8abeb6a",
+      "size": 871564,
+      "lfs": {
+        "oid": "1c0787e3b1c949a971deececcefc4dd57d34a5faf9e1168791de9c62a7df29eb",
+        "size": 871564,
+        "pointerSize": 131
+      },
+      "xetHash": "12c779d849917e3847ddd9c241eb92e7895c5d3e4574f21294e41f926353d783",
+      "path": "bonsai/images_2/DSCF5791.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1d23d30e5c26d873c27e5c3ab719cbc5be12182a",
+      "size": 879296,
+      "lfs": {
+        "oid": "b684a5a13509a8350b9887e52847013f7fa14ebe82c4e36950a383788df220e3",
+        "size": 879296,
+        "pointerSize": 131
+      },
+      "xetHash": "65f9f19565afb543f2c01662142d23acdde03875d0dea790f4f23072188ab2e2",
+      "path": "bonsai/images_2/DSCF5792.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c86b97105f4dfc9140a36b5e3cf4edbbd73d5740",
+      "size": 876069,
+      "lfs": {
+        "oid": "a83e956d6a6084b8684a1ace6846d15081f40f2a29c9442ec69a13cc9f0631d7",
+        "size": 876069,
+        "pointerSize": 131
+      },
+      "xetHash": "2d17336667924f91874dd013807ba9a4de684a6280429b980198c28302573283",
+      "path": "bonsai/images_2/DSCF5793.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "806d8081f520a77d031ef33f2942b8db7dd5f155",
+      "size": 841236,
+      "lfs": {
+        "oid": "c2216bfce05f8936f3e50ec1b35e249ff78d039cbf8d708a9de46f6dbad802f0",
+        "size": 841236,
+        "pointerSize": 131
+      },
+      "xetHash": "9a98465f777894831778356170c0c02a6448f08d2acb0544272721a1f90171a4",
+      "path": "bonsai/images_2/DSCF5794.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5b164f9a8e8d786e64c83a6157b181a24ae5cc4e",
+      "size": 911827,
+      "lfs": {
+        "oid": "d06530e5a5a561096680ec549ab82f3ceef702190241211be440199ae0f613e1",
+        "size": 911827,
+        "pointerSize": 131
+      },
+      "xetHash": "bd591c88af056ae26f85d4063f42bd2315a78775995ef01cc042392d1e0cd2bd",
+      "path": "bonsai/images_2/DSCF5795.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "73c0f051b892186e135fab97576ee9b42d9c52d0",
+      "size": 929555,
+      "lfs": {
+        "oid": "c8e4d92c1b6f730fc75ac32ce6a0712cfd50258ceab4b08f7ca234473b2d61b4",
+        "size": 929555,
+        "pointerSize": 131
+      },
+      "xetHash": "9895973bf056301f72168e36571119d9f0e7bdb74a523a81cdfa5164cdbad615",
+      "path": "bonsai/images_2/DSCF5796.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4869e6ac25f7fc19a4b472b767d2c3484632213d",
+      "size": 957272,
+      "lfs": {
+        "oid": "e78aeed8e304728415fe8b2e527afea3d6f12b8628735f2363b3c465487bc8b2",
+        "size": 957272,
+        "pointerSize": 131
+      },
+      "xetHash": "d0023456c3a1bc315b93697c47a17529367c06e9b240602ad678e40a43312f8e",
+      "path": "bonsai/images_2/DSCF5797.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "60ff022e9713b2e923e082a6835ed6a8d91a0d36",
+      "size": 960505,
+      "lfs": {
+        "oid": "25d98115e5e6135cc1ff4b127e6a77c8bb88dc626496359e0ae847a067039b12",
+        "size": 960505,
+        "pointerSize": 131
+      },
+      "xetHash": "1c575267773d975f9ca3aa319a7b6be5027cbe4a0e81f8a307db8f49f460ef3d",
+      "path": "bonsai/images_2/DSCF5798.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "0a02d8242b28aa4c32be7db7b905928a8c666ef3",
+      "size": 964568,
+      "lfs": {
+        "oid": "6cbb8c275717666f81dfa34926a69c92b223c99f0eafeb4f6ea02d7c5d932770",
+        "size": 964568,
+        "pointerSize": 131
+      },
+      "xetHash": "20f688a7ae662b418b700cad5b2c4480956518f2ac436f1a3ce7283a93c2904a",
+      "path": "bonsai/images_2/DSCF5799.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "328009683afcc791b7547eafaa77e3c43702baad",
+      "size": 961847,
+      "lfs": {
+        "oid": "9be38756105b70de8915576e58795c9ec96c98c875f0dc5776dee28138d70ddc",
+        "size": 961847,
+        "pointerSize": 131
+      },
+      "xetHash": "326443e4a7dd55dcc3b892b1ccdbe49bd77cc1fcf8f42d8683cef9bb450cb559",
+      "path": "bonsai/images_2/DSCF5800.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ecdaa5fa043a67e3eb867ee3b2342683dd243803",
+      "size": 974329,
+      "lfs": {
+        "oid": "1925ad587d0992dd78699fa04b626d68980bce2f40439212835c8dbcdd02d96c",
+        "size": 974329,
+        "pointerSize": 131
+      },
+      "xetHash": "bcf6805a0c5ef37aaca6adb2d89f6706dad84736caaddc14e714c5236631767b",
+      "path": "bonsai/images_2/DSCF5801.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7a10f8816b75ad79977c424403fa03d4cec4d67e",
+      "size": 952494,
+      "lfs": {
+        "oid": "c809d75c5dc66a05f58823ac4a2a2c4cfe4c527b362e888936cc91cff11747e7",
+        "size": 952494,
+        "pointerSize": 131
+      },
+      "xetHash": "d9f94db18772b87e51444a973d0ac9618953ab7710aa9e5db4655dda909f2e2d",
+      "path": "bonsai/images_2/DSCF5802.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7ba2950a7558acaf0483ce3c7396db0f9fbaa941",
+      "size": 952590,
+      "lfs": {
+        "oid": "946606bcf1a71bfd486e018a2f727817eb7879f3b0c3a627a45138aa1ec9838e",
+        "size": 952590,
+        "pointerSize": 131
+      },
+      "xetHash": "5b193f0fbcd297af3dea99bdf346f6060f6bb17e13a85229b3cfb81725da55b2",
+      "path": "bonsai/images_2/DSCF5803.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d3160f75a1bd53a36481e2b8dac08cb1264ead21",
+      "size": 919150,
+      "lfs": {
+        "oid": "705f5c3d3f22ee5647772d5dc257830589169c257a4681a9f0dd9a9921374feb",
+        "size": 919150,
+        "pointerSize": 131
+      },
+      "xetHash": "071eec4e88553598b493eab727ec4ed00aab5f893ea6413ac73c2e6f2932ee2c",
+      "path": "bonsai/images_2/DSCF5804.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "92799f675cdf4c4328038e7bc287b11f5859e50f",
+      "size": 913911,
+      "lfs": {
+        "oid": "b2ef5aae1e4c0ae3c377dd164f645c15feac27f4de02298b211dfbdd5e8a9a29",
+        "size": 913911,
+        "pointerSize": 131
+      },
+      "xetHash": "44d9b53b34961e7800a5e34005449ce991c67c5faa74091a3c77c6b0ddfbd247",
+      "path": "bonsai/images_2/DSCF5805.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "64eb617ba3d0b2880e135d65fcacf1ee0e72107d",
+      "size": 893523,
+      "lfs": {
+        "oid": "5cfb661aa851113dff7ddb34796bd8316474ef05383004a29fbab19beb81ba05",
+        "size": 893523,
+        "pointerSize": 131
+      },
+      "xetHash": "29406d1d5ba1ba757e6dc786cde3f63a97ecda5335dac74a4773ebeb6719ac66",
+      "path": "bonsai/images_2/DSCF5806.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1041dfd05229ba223ba432396970e1eee16c7a6e",
+      "size": 916935,
+      "lfs": {
+        "oid": "108139a3a1603db1c866977410c2df87337b111cf833b7e8ae6c501517054ada",
+        "size": 916935,
+        "pointerSize": 131
+      },
+      "xetHash": "31b8171141fc3ea6c2962bced600ea9adfc141cf49f30e33c70342bdc0a99542",
+      "path": "bonsai/images_2/DSCF5807.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "343dc657c1ff7f45f17113224eddc3b0eca2a0f4",
+      "size": 907394,
+      "lfs": {
+        "oid": "907f9f5e0607c5832d111e52b1b5ea8fad70ef753b34eafd77377a3357a83ca7",
+        "size": 907394,
+        "pointerSize": 131
+      },
+      "xetHash": "5532c12d7ba43c9e7ffda49c41b0836749ab19b0031eadb03d35a61b9024282d",
+      "path": "bonsai/images_2/DSCF5808.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "4c1380e10f965568747c33d470d99991ea7b275b",
+      "size": 887279,
+      "lfs": {
+        "oid": "be560b4dd74867d9086526e4059b4da94ea0f4c29dacf85d6d119672639eeb43",
+        "size": 887279,
+        "pointerSize": 131
+      },
+      "xetHash": "4f37149b657052458345ee9f7f446589946e8fd4892f9ba5a42bdd45751f7491",
+      "path": "bonsai/images_2/DSCF5809.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "8944f1406e06145ab9fc8ef993e2a65f0ea12c61",
+      "size": 896853,
+      "lfs": {
+        "oid": "6da9b685b6039277f27bb8c83bf028892506f95bd45c1d91c8e2bad9d09e6991",
+        "size": 896853,
+        "pointerSize": 131
+      },
+      "xetHash": "b9635636a8ad4860c8327b46e13e9ef8c47dde316dcb15be6d43798648699274",
+      "path": "bonsai/images_2/DSCF5810.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "19a0e2c8a28c1c0cc677502cae29ae1a16044a9b",
+      "size": 899796,
+      "lfs": {
+        "oid": "cb4478374744d33f19cf545bc1787eaf2664ec60d0eec9368730ff28aa69eb5a",
+        "size": 899796,
+        "pointerSize": 131
+      },
+      "xetHash": "0bb822a0a2e708ef4764b4e24f5b27e4affd5459dfc592abb53cc1201665bfb4",
+      "path": "bonsai/images_2/DSCF5811.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9444827b95974e485b9a896e74209a34159930e5",
+      "size": 846171,
+      "lfs": {
+        "oid": "a4ab49ab62aa87e7fbcff4d637b3a50bb1ea617d4b105f012043f9641203ada4",
+        "size": 846171,
+        "pointerSize": 131
+      },
+      "xetHash": "a446e036d1502fd2489d63e9ac4587e73d888b69611863300b4f91a6c2b1613a",
+      "path": "bonsai/images_2/DSCF5812.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "94365c6ac5f1a3cfac63cfca56a50ce42bf18067",
+      "size": 880322,
+      "lfs": {
+        "oid": "5cb2b4868607cd6d888f2a8cf2aad37fbc49dbe7328d5e1f11d28976b2dc9e75",
+        "size": 880322,
+        "pointerSize": 131
+      },
+      "xetHash": "713894cc3c9ada6e91b8a298edcaa4038084a3bc363ecf665cbacee5b5c2de5f",
+      "path": "bonsai/images_2/DSCF5813.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d87bdd982eb612687102314b8f716993678c380c",
+      "size": 857779,
+      "lfs": {
+        "oid": "f4a532810ab5ba234017a9ea15fa55a129da662a916070b07a47fc28f3bd8395",
+        "size": 857779,
+        "pointerSize": 131
+      },
+      "xetHash": "e7976090dd18d96b64cf76ba1177dfa93511bd101252358ad4a656c599a2d90e",
+      "path": "bonsai/images_2/DSCF5814.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "bf00064a6ba02074ef005f78881c37495855526a",
+      "size": 911880,
+      "lfs": {
+        "oid": "efad0462b05ca6bab51f15c128ea109e6de7b06c3ac77b3ce00a20e2ffe6bab2",
+        "size": 911880,
+        "pointerSize": 131
+      },
+      "xetHash": "915ede8f422123791b02a23e3ac9dc608c24a17879ae4eb7f5dd43a216ca8093",
+      "path": "bonsai/images_2/DSCF5815.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ed3b3b0ed06563be659828153889e0c120574460",
+      "size": 927820,
+      "lfs": {
+        "oid": "a2212b4f5c563a24c292b19c5987fdbe9b6558923ec5eff7ebd4fe6734eaa051",
+        "size": 927820,
+        "pointerSize": 131
+      },
+      "xetHash": "28543189e02bad23dec1c11c053e9d7ff902cc4e2b38623029af01c5aa821969",
+      "path": "bonsai/images_2/DSCF5816.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "566204b340c85576b01aab7cc6c0f1369060e428",
+      "size": 925971,
+      "lfs": {
+        "oid": "03bbbbe30c4e7e0484af338bc10899959ef4a1f4a4512869c165dd94815ce126",
+        "size": 925971,
+        "pointerSize": 131
+      },
+      "xetHash": "0815d650c9ed29ef128e3df4030778dfa9c35fe5b33e275a09abb2262bbdfcd5",
+      "path": "bonsai/images_2/DSCF5817.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "912c3ae5eb338c036eecff91ee10d6938e7af2b8",
+      "size": 938812,
+      "lfs": {
+        "oid": "2c2db988cf2ff6b0a2c77bdc260b78d3bea28c996991c6b3ea1ed1b32c249a8d",
+        "size": 938812,
+        "pointerSize": 131
+      },
+      "xetHash": "1cc717d98e73803a6b13e2bcf772255e93e072389d0a4adae38f4cd5537665cf",
+      "path": "bonsai/images_2/DSCF5818.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d1c8e6905d1f094b8286319313282002b5f449ea",
+      "size": 969522,
+      "lfs": {
+        "oid": "998275cd9d41caa55e2b403c8a2d3126e90448e11cc84e52e974fd312d9d00ed",
+        "size": 969522,
+        "pointerSize": 131
+      },
+      "xetHash": "badb489545afc7d0ccf179f042f6778a28c24ec74dbbf3079ac7b035f151c4eb",
+      "path": "bonsai/images_2/DSCF5819.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "79769db928a4682ff50f60a6a0841cda1a919463",
+      "size": 951601,
+      "lfs": {
+        "oid": "11e5b128b89b8d84a540cb2b01dc03c451fa07b1bfcdc01701274b8b0e3a424c",
+        "size": 951601,
+        "pointerSize": 131
+      },
+      "xetHash": "dc10d91fd0c910a4c43645cc47509bccaa493b315b46fff0f4eb80874f10a96a",
+      "path": "bonsai/images_2/DSCF5820.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c1bc12285e6f3fe4468772f36b8f40a74e024d85",
+      "size": 970842,
+      "lfs": {
+        "oid": "e4839daf3a23a2a352ca2b7eb3fbae4d8f77f8223443ca7c0d6cc14aa9c23398",
+        "size": 970842,
+        "pointerSize": 131
+      },
+      "xetHash": "5663a9b91b56ea93a01072d8c7d342afc0afbd91a0e5357194c3746cef073c93",
+      "path": "bonsai/images_2/DSCF5821.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "ca6930eda31c9c681d13ba6b540b7fd8885f3c6e",
+      "size": 955770,
+      "lfs": {
+        "oid": "bc81a4c76292da46841af8ee11305ae4f09841ce9520b230608d4956a2c75601",
+        "size": 955770,
+        "pointerSize": 131
+      },
+      "xetHash": "6aa1ba90fb52e345262637445afb4524f5b8c01eac9edadab60fecf0ce2c4e5b",
+      "path": "bonsai/images_2/DSCF5822.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "862b42c5f044e3db8bcf72d643bd9ec92aebc040",
+      "size": 952194,
+      "lfs": {
+        "oid": "7e9e2ccd628103d087bdac0887773d12d8b4c485b86302e18fbfb0c7574d656f",
+        "size": 952194,
+        "pointerSize": 131
+      },
+      "xetHash": "760c10748cda9e8fedf677dcaf7514e6b241b9e95dfaf66990ec0b4ca42d551a",
+      "path": "bonsai/images_2/DSCF5823.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "907fe77a5510e8edd2d51b627d032a7f0b2d859d",
+      "size": 931283,
+      "lfs": {
+        "oid": "2bda8710a7b15d7d066957ce760beefcd4224e40a4d08bdb11c6b8ab1ae87ca2",
+        "size": 931283,
+        "pointerSize": 131
+      },
+      "xetHash": "ab61a839bc5670eee22af0271cb6511d0274c22d5b13c464ed4681ec8e519988",
+      "path": "bonsai/images_2/DSCF5824.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "59b3a91db57ee8156ef740b7fd7458bb91af5675",
+      "size": 931806,
+      "lfs": {
+        "oid": "792755463372e01f43d398800d3eb8d6270d3b8f07898c6259a8c803d9d9227e",
+        "size": 931806,
+        "pointerSize": 131
+      },
+      "xetHash": "fd45265029ecae54114b91e6b2f36b4961275ff4462bc167eef754e6e9df31e5",
+      "path": "bonsai/images_2/DSCF5825.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6c30d19965b3f11f1f3e1ec122e0af21c55d4729",
+      "size": 924722,
+      "lfs": {
+        "oid": "a2cf15b6b7f8a91384bdf861b9ccf1a421ec3df5fdbc1fb8bbf721de8fa6e318",
+        "size": 924722,
+        "pointerSize": 131
+      },
+      "xetHash": "6cbfe9240f0d88b92405367fa0920c941adc7613bf09aab5d3116f3856e56645",
+      "path": "bonsai/images_2/DSCF5826.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c519fb85188e7077fdacb9d56b219f9435177509",
+      "size": 921643,
+      "lfs": {
+        "oid": "37bd1ecb2a1b9d32273d86f2111252ffffcd10b2e6142fc20d0779274e615301",
+        "size": 921643,
+        "pointerSize": 131
+      },
+      "xetHash": "539424c303eaaeaf6022ed0017c51ca811539772f0f0ed5d82bfd7c0631bf33d",
+      "path": "bonsai/images_2/DSCF5827.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "10a7c97b90e52bb9c2c0290a3b8c3589c3f16f1d",
+      "size": 931472,
+      "lfs": {
+        "oid": "7538ec40e3cb0b8b4fc3c2e537fd23e5795dd3de2f1cd2119a40d5a3b1c1690a",
+        "size": 931472,
+        "pointerSize": 131
+      },
+      "xetHash": "45fb734498e0b27723f00196ec444c3dfc7bfde1a5644aeb000322c37ccd6e11",
+      "path": "bonsai/images_2/DSCF5828.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "c5323d4ec2522314517f9f3794f5872880b7db7f",
+      "size": 911377,
+      "lfs": {
+        "oid": "abfbb08d934d3ce42689a32ee07ccab196a22cecc42a4bb53bc6656cc0283c7e",
+        "size": 911377,
+        "pointerSize": 131
+      },
+      "xetHash": "6e5312a5f41eb24a73431b51aacaedec87a21461a8193d0fa6c628c6e163c210",
+      "path": "bonsai/images_2/DSCF5829.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7ad50239d3c24711111f50e75f182a88e881a1aa",
+      "size": 949427,
+      "lfs": {
+        "oid": "4ca5e14de469bfdb9d42d7ed9b8f97766afbd6e5501871a9c264ddc493e0bab0",
+        "size": 949427,
+        "pointerSize": 131
+      },
+      "xetHash": "c77077ebd4c444f01003abe2b306ed293249f3a4c52120e638229118f22a9bbe",
+      "path": "bonsai/images_2/DSCF5830.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6a4f6de0a9c2f7d8a86db73b305bec7f34bc205e",
+      "size": 911484,
+      "lfs": {
+        "oid": "3f37c03a23a1c91bcfa2ab76dfad99cdb02d9268315026ac4892899d9599b657",
+        "size": 911484,
+        "pointerSize": 131
+      },
+      "xetHash": "b42fcb9b5e2e8e3e04d83bb8adb2831ec52ecf97fbf6d107b694cfa9e2e57151",
+      "path": "bonsai/images_2/DSCF5831.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d35b82f805027fddc430d6f9f789af2a7275b0c0",
+      "size": 896880,
+      "lfs": {
+        "oid": "5f5396279b1ff242e7b834af01daaf026dffe0c97372308d1e9b856a4bf1f08a",
+        "size": 896880,
+        "pointerSize": 131
+      },
+      "xetHash": "15542308334e011f3c2b049455b35d552181cf61401b3ba58bfd2cd06ead8e4b",
+      "path": "bonsai/images_2/DSCF5832.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "8a3c673a53ae7f5b4734d97221e4a0f22c5e393b",
+      "size": 902978,
+      "lfs": {
+        "oid": "03eb290754fe649d4ab8ebc9e2d0e62c1cc4d3f424053cc9fe3d57ad945f13ce",
+        "size": 902978,
+        "pointerSize": 131
+      },
+      "xetHash": "dc9ecffb633e2557908df69853e66a0e1478889b837f8773af0ecec4375d0e91",
+      "path": "bonsai/images_2/DSCF5833.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "3c29e32f4316ae6f3edae1292957dbcb7173a041",
+      "size": 927983,
+      "lfs": {
+        "oid": "1625a3719b1d13faa2a085de56249dfcb9de21a526f9007048bb3e2e9debb2a7",
+        "size": 927983,
+        "pointerSize": 131
+      },
+      "xetHash": "f6fa58ebd4345784c549ac5d0f8913fd78df248909c012baaa1d2d2e1c3b2a1e",
+      "path": "bonsai/images_2/DSCF5834.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d3046e423f074d66b3c5c34b54eea58e7ccc13b8",
+      "size": 921086,
+      "lfs": {
+        "oid": "9abeb565def7ec6ad917981a69c4ef5fce7ebce1ba7f2be4b615bdcb39748ad7",
+        "size": 921086,
+        "pointerSize": 131
+      },
+      "xetHash": "0f0b4a49a13bc846b5c91f23cf50c1a4baf0fa3c92b81197736fa1807a9b84cc",
+      "path": "bonsai/images_2/DSCF5835.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "366255d4d7841d3bf7a8bb56c80f6781c3c6f68f",
+      "size": 916377,
+      "lfs": {
+        "oid": "8c0ed56c421ee12d704a89a8d5ee417f7553b420d632b33829082e484ba36cae",
+        "size": 916377,
+        "pointerSize": 131
+      },
+      "xetHash": "b6489b672fee2cf42374da804e263dbe3b75fc07aa8aed5c4eb53e9e2d0bf1d8",
+      "path": "bonsai/images_2/DSCF5836.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "403494464eb876310d2cc7b485da86be3859162e",
+      "size": 924280,
+      "lfs": {
+        "oid": "b34519f835e9e93f82ab73fea562c7440929cf6a104bdf8642756b9061c25aad",
+        "size": 924280,
+        "pointerSize": 131
+      },
+      "xetHash": "13a1696ec3f8658536463407b39bf5362fbe53bd1408e3b715f815f9d9246e44",
+      "path": "bonsai/images_2/DSCF5837.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "60ceb43bf46c60c26d73bb05c859b9f5c1f2a53b",
+      "size": 904384,
+      "lfs": {
+        "oid": "ed740cc90005f311d87e8bcac2e8b1fbfd5e0c9d6f2ba48a60b1527d77886d27",
+        "size": 904384,
+        "pointerSize": 131
+      },
+      "xetHash": "163a749badd1ec0f7ff664be98bd558bf7b14c028d018dbd49bb589510db3347",
+      "path": "bonsai/images_2/DSCF5838.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9eab5f9de75503e90f51395c9ac56f9b74055ff0",
+      "size": 929875,
+      "lfs": {
+        "oid": "de179f8d8cd561ded53c6d7484239fcc10493bcd469616fdf581d24b035d3100",
+        "size": 929875,
+        "pointerSize": 131
+      },
+      "xetHash": "c2603df5dd06fb94a13a03d275b5e6002f5cb0b57fecb8d893dd18bd134022c8",
+      "path": "bonsai/images_2/DSCF5839.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "06b8ff37c87c1a8fbb2737825a459b73cf4efc91",
+      "size": 919713,
+      "lfs": {
+        "oid": "f8e419574f4d8ba77a62a9346c7d14b0fa1e4cd570635f868ce9a873b9bfe5af",
+        "size": 919713,
+        "pointerSize": 131
+      },
+      "xetHash": "0a436773b9cabd29b8d0691187c8acbb38c9ba43ee3a5f2bc9ab598771be56d4",
+      "path": "bonsai/images_2/DSCF5840.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a0cc0bd69fdc46316cd5fce06c8a63ef223259a0",
+      "size": 940070,
+      "lfs": {
+        "oid": "f3a2a9eeadffdc975fbffb2aa3bb65f0f031b20913b9ef13f2a3dca1f970f170",
+        "size": 940070,
+        "pointerSize": 131
+      },
+      "xetHash": "8259f37802f8a0ca8e38b00ebc93dc60e4888efdea41748132bbb6c9f71dc1af",
+      "path": "bonsai/images_2/DSCF5841.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "27201588395f3a88551fcf86f6b036f5ced35ef1",
+      "size": 924575,
+      "lfs": {
+        "oid": "842d6edc6910b043ac653a85b1bae1e45dc8a83942af7d4f1b099bba3cac388e",
+        "size": 924575,
+        "pointerSize": 131
+      },
+      "xetHash": "713a11486d48205b8935976ffedf2d5708bb1f84a5b5a3f2270088b85136d7ba",
+      "path": "bonsai/images_2/DSCF5842.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "1100771a1d1c8f62bc4abd83663aa25da0121eba",
+      "size": 949078,
+      "lfs": {
+        "oid": "2158f011e58d74a2d3d4a9d7d98e679a776db8e49e25f12a28a79a04b452ab18",
+        "size": 949078,
+        "pointerSize": 131
+      },
+      "xetHash": "987aec56fc88f84c3e215a7d131c21a9db6fa7c89ec90bcd0cd3fbd7fab272ec",
+      "path": "bonsai/images_2/DSCF5843.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2640e4513c74251112cf3722cbf236f0811e0701",
+      "size": 960616,
+      "lfs": {
+        "oid": "2e815078d3acadb26f768ad75c7c6cccbb93880b7c6055608d552d1309d7eb56",
+        "size": 960616,
+        "pointerSize": 131
+      },
+      "xetHash": "dafbd535d39eefec9481e96e1207fac24371667df45955586245922776b3fb11",
+      "path": "bonsai/images_2/DSCF5844.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "d496273e68857b76f0b11fcc75bcf72eb2f0928b",
+      "size": 954527,
+      "lfs": {
+        "oid": "3aad0cc209d0eee57e116324f51fb0126ed29a9eda6b5d0fafbf385b1c3d53c5",
+        "size": 954527,
+        "pointerSize": 131
+      },
+      "xetHash": "5cee8a0d50a7abca6aa05b5536beb14220684dd3f062735d08e2ea683eaae99a",
+      "path": "bonsai/images_2/DSCF5845.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "64af0838bb42478c998d292034db97b81d275aab",
+      "size": 955969,
+      "lfs": {
+        "oid": "d73d6c9d07b93561006442d59c01463020a0ff5b17579e119590a72c513db473",
+        "size": 955969,
+        "pointerSize": 131
+      },
+      "xetHash": "057700d78bc75c6f1b81bb3c014ead64ed209de439666fc59c0695602d170efc",
+      "path": "bonsai/images_2/DSCF5846.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "7cab8375792b33981a92c16e017767bf0840d87b",
+      "size": 903336,
+      "lfs": {
+        "oid": "3944121db322e93ae78e07443f8fb3b58d82848293782db18019fc8a86be7f4b",
+        "size": 903336,
+        "pointerSize": 131
+      },
+      "xetHash": "0aec3f1d5fe4973cc916cbaa6313548fca305891a9a114eaf0f1671d788110df",
+      "path": "bonsai/images_2/DSCF5847.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5223085968edd807d0d7f811ed271c692525e557",
+      "size": 932993,
+      "lfs": {
+        "oid": "4b3c66e6fc333cc00cb866899c22f0a6e9ea910888d6f42a39fcf59c98e7bc84",
+        "size": 932993,
+        "pointerSize": 131
+      },
+      "xetHash": "dade31b9ab48c376dece5b72c4c75e49a06078efa0f29c50353a8b8192168c3f",
+      "path": "bonsai/images_2/DSCF5848.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "a0566a309760b30d4569cd6f09a90ae082bd4d21",
+      "size": 928446,
+      "lfs": {
+        "oid": "0442b92c25ff0b69a2be93221b74dd747235f196baaf78ae01abff696756d774",
+        "size": 928446,
+        "pointerSize": 131
+      },
+      "xetHash": "6271f0013dffaed3df9bb443f2ea0c08d927a51c6fe306653abdd83e8afe19b8",
+      "path": "bonsai/images_2/DSCF5849.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "2c32d5780fb468a515cae365d9dc08c6feea5cf1",
+      "size": 912354,
+      "lfs": {
+        "oid": "43ccde44603ea9e9808d65c2664c3c3ebe7623f4786a8b415a88832d6d5b62fe",
+        "size": 912354,
+        "pointerSize": 131
+      },
+      "xetHash": "5927f64b8f2baf508d2610e166c162e83bbab291048166c18b45db4d2388b360",
+      "path": "bonsai/images_2/DSCF5850.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "429a28237096b83ce119323d082ec6d329b04d9c",
+      "size": 922303,
+      "lfs": {
+        "oid": "dd26330e54c03ec4cc4fd3f4988d19c8c77d01c866138bf2429ce2ef7aed0a05",
+        "size": 922303,
+        "pointerSize": 131
+      },
+      "xetHash": "b8dd0fa73b3f49ef04d75c7e7202662573793a7a744ffad09120271223c43674",
+      "path": "bonsai/images_2/DSCF5851.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "b45fcb5899468dcaf6a840d2edbe61719c59a20f",
+      "size": 915764,
+      "lfs": {
+        "oid": "9b3268590524044edc2826a636a1fcc93462f754d0ee129047fb83d7db54e7b2",
+        "size": 915764,
+        "pointerSize": 131
+      },
+      "xetHash": "394370826b60aac3f8051dd10bf48013ffeedb8bac6e32f9905d97f8f43e9c5f",
+      "path": "bonsai/images_2/DSCF5852.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "5bdacfc5eb17581552add5ddab2e8ffa6d9a028b",
+      "size": 919848,
+      "lfs": {
+        "oid": "f2a9484f4066077cbf878214062db62c431ffdb82d68f74c0438f419252ac946",
+        "size": 919848,
+        "pointerSize": 131
+      },
+      "xetHash": "9b1b334cb0f9f8b6d625025418005c1319355429b3e7741766031c91346f52b9",
+      "path": "bonsai/images_2/DSCF5853.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "9ea03e2b343774207da0ac0d693da2e5083a61cf",
+      "size": 943643,
+      "lfs": {
+        "oid": "c2e8c109fcc01e5ee530f3795cdf6ecc46dbec931bd3071cad7801bab6f5c1dd",
+        "size": 943643,
+        "pointerSize": 131
+      },
+      "xetHash": "0deee2d45876d2ee214a97ff733602796beafad150a48faee2a28204bd55df2b",
+      "path": "bonsai/images_2/DSCF5854.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "17847459bc194c882bcfcbb17d4ea2c12e35715c",
+      "size": 911093,
+      "lfs": {
+        "oid": "4ccb4c5b5eae4058e5bd67fce1cc925876ce6229edbd887c85c7e5822bb27122",
+        "size": 911093,
+        "pointerSize": 131
+      },
+      "xetHash": "61091475410306d6d5e6e4358d3411ca0aadef23de64411ffc90c895206d2e81",
+      "path": "bonsai/images_2/DSCF5855.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "87e6eab41b3f4c77a412c5bf10d8699c9b6e50ac",
+      "size": 940290,
+      "lfs": {
+        "oid": "a215259af9f1caf77097a44466d1432888919ca616961719a8538a68d9b6e95f",
+        "size": 940290,
+        "pointerSize": 131
+      },
+      "xetHash": "7b5f8f45b697487297c7f5ab582b257361fbd6617bd606bcbe94c8b584e497d7",
+      "path": "bonsai/images_2/DSCF5856.JPG"
+    },
+    {
+      "type": "file",
+      "oid": "6b3f3a5691fbdfa2c029b4903e9c79fd8e959532",
+      "size": 64,
+      "lfs": {
+        "oid": "7f46e171740e11b5320bd59b3510db9cb689449aab6110d04fe0082605578008",
+        "size": 64,
+        "pointerSize": 127
+      },
+      "xetHash": "1b933f92d64618ae76b1ee2602bd9cdba8f850e31825c22365336999983ddf54",
+      "path": "bonsai/sparse/0/cameras.bin"
+    },
+    {
+      "type": "file",
+      "oid": "a4cf180fd52155605a6dc22cf6234b38295074ef",
+      "size": 68376564,
+      "lfs": {
+        "oid": "63defb91a82457edaec0b589fb400b37804d74173b0e859bae3e4eec38b67044",
+        "size": 68376564,
+        "pointerSize": 133
+      },
+      "xetHash": "b4df74945937fbeb5e780d8253c618232d0a8e7d73f32a98918ee0b50abe0d6b",
+      "path": "bonsai/sparse/0/images.bin"
+    },
+    {
+      "type": "file",
+      "oid": "354d83025453869dd2d0d314d1df340b51b8e757",
+      "size": 24900927,
+      "lfs": {
+        "oid": "6c2789533492ccf00fa3f177d49ef39ec5f492bbd93bffd7c3295593b2ddf74a",
+        "size": 24900927,
+        "pointerSize": 133
+      },
+      "xetHash": "4027701bfb73a968d205eed763b8684f0253e47dba4c33f3fba57ae05a8bf481",
+      "path": "bonsai/sparse/0/points3D.bin"
+    }
+  ]
+}

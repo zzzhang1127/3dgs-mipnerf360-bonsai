@@ -1,0 +1,38 @@
+{
+  "results/metrics.json": {
+    "bytes": 10440,
+    "sha256": "c9105375c71ce6e7585d30cbca107d0d285d7d7458fd54b677dfef1004c5863a"
+  },
+  "results/test_comparison.jpg": {
+    "bytes": 466859,
+    "sha256": "edd519ed97bf328e9d4736d300d9527490c513bfa303cf1a9556371b11d370fc"
+  },
+  "results/train_comparison.jpg": {
+    "bytes": 462677,
+    "sha256": "f0a8d2ef9c8ee89a7eacc57f1a6eaab8144eebb53c317c2e81d06e0adb20357f"
+  },
+  "results/interpolated_view.jpg": {
+    "bytes": 233812,
+    "sha256": "3b839091b4bd9191ae0e4165d82b6585b77e6a9001e24d2075730b8fdb52bb63"
+  },
+  "results/novel_views.mp4": {
+    "bytes": 4377824,
+    "sha256": "ae2ba527bd9f0750a2f244d5bd7039a4cd8bdb97a8bbb200c2e590073bd41835"
+  },
+  "bonsai_compressed.ply": {
+    "bytes": 65813637,
+    "sha256": "b0f0636a49c7d8279585ead34cab596c43096c19465e3c3c6c8848d669737492"
+  },
+  "bonsai_interactive_viewer.zip": {
+    "bytes": 73267763,
+    "sha256": "9d63034f66af9faea946ad09bff4cd2aecabceb46b546440e8c1eea74b2ee106"
+  },
+  "bonsai_original.ply": {
+    "bytes": 266336172,
+    "sha256": "5940586dda94885f41819f981e41cd665bfa5810f849f64f9cd87fdf0cf6803c"
+  },
+  "bonsai_viewer.html": {
+    "bytes": 91647637,
+    "sha256": "988f018d7ca6515cdff34a5b9181b512c6de722d06600421385ddaeec3611ff7"
+  }
+}
